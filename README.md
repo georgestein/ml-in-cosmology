@@ -51,9 +51,10 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 
 &nbsp;
 
+---
 <a name='structure'></a>
 ## Large-Scale Structure
----
+
 
 The [Large-Scale structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coil1.html) of the universe is a field that relies on state-of-the art cosmological simulations to address a number of questions. Due to the computational complexity of these simulations, some investigations will remain computationally-infeasible for the forseeable future, and machine learning techniques can have a number of important uses.
 <a name='formation'></a>
@@ -80,9 +81,9 @@ The [Large-Scale structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 
 &nbsp;
 
+---
 <a name='reionization21cm'></a>
 ## Reionization and 21cm
----
 In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reionization) refers to the period when our universe went from the "Dark Ages" before major star and galaxy formation, to the ionized (neutral Hydrogen) state we see today. 
 
 | Title | ML technique(s) used | arxiv link |
@@ -98,10 +99,9 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 
 
 &nbsp;
-
+---
 <a name='lensing'></a>
 ## Gravitational Lensing
----
 [Gravitational lensing](http://www.cfhtlens.org/public/what-gravitational-lensing) in cosmology refers by the bending of light due to mass between the source and Earth. This effect is very useful for inferring properties of the total mass distribution in our Universe, which is dominated by dark matter. Gravitational Lensing comes in two types: weak and strong.
 
 Strong gravitational lensing refers to the cases where the lensing effect ( e.g. multiple images, clear shape distortions) is strong enough to be seen by the human eye, or equivalent, on an astronomical image. This only happens when a massive galaxy cluster lies between us and some background galaxies
@@ -135,9 +135,9 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 
 &nbsp;
 
+---
 <a name='cmb'></a>
 ## Cosmic Microwave Background
----
 The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_microwave_background) is the light left over from the period of recombination in the very early Universe, 380,000 years after the beginning. CMB observations are sometimes referred to as "baby pictures of our Universe", as this light has been travelling for 13.5 billion years just to reach us.
 
 | Title | ML technique(s) used | arxiv link |
@@ -149,9 +149,9 @@ The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_mic
 
 &nbsp;
 
+---
 <a name='observational'></a>
 ## Observational
----
 
 This section has a variety of machine learning papers used for various other observational applications.
 
@@ -168,9 +168,9 @@ This section has a variety of machine learning papers used for various other obs
 
 &nbsp;
 
+---
 <a name='tools'></a>
 ## Tools
----
 Contained here are some machine learning tools that are specifically designed for the computational challenges of cosmology. 
 
 | Title | ML technique(s) used | arxiv link |
@@ -180,9 +180,9 @@ Contained here are some machine learning tools that are specifically designed fo
 
 &nbsp;
 
+---
 <a name='reviews'></a>
 ## Reviews
----
 Reviews of machine learning in cosmology, and, more broadly, astronomy.
 | Title | arxiv link |
 | :---  | :---: |
