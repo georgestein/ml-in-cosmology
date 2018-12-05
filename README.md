@@ -35,8 +35,8 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 * ET: [Extremely Randomized Trees](https://link.springer.com/article/10.1007/s10994-006-6226-1)
 * GAN: [Generative](https://towardsdatascience.com/generative-adversarial-networks-gans-a-beginners-guide-5b38eceece24) [Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets)
 * GBDT: [Gradient Boosted Regressor Trees](https://en.wikipedia.org/wiki/Gradient_boosting)
-* GPR: [Gaussian Process Regression](https://www.mathworks.com/help/stats/gaussian-process-regression-models.html)
 * GMM: [Gaussian Mixture Model](https://en.wikipedia.org/wiki/Mixture_model#Gaussian_mixture_model)
+* GPR: [Gaussian Process Regression](https://www.mathworks.com/help/stats/gaussian-process-regression-models.html)
 * kNN: [k-Nearest Neighbours](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 * KRR: [Kernel](https://www.ics.uci.edu/~welling/classnotes/papers_class/Kernel-Ridge.pdf) [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization) [Regression](https://onlinecourses.science.psu.edu/stat857/node/155/)
 * MDN:  [Mixture](https://publications.aston.ac.uk/373/1/NCRG_94_004.pdf) [Density Network](https://cbonnett.github.io/MDN.html)
@@ -108,11 +108,11 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 ---
 <a name='lensing'></a>
 ## Gravitational Lensing
-[Gravitational lensing](http://www.cfhtlens.org/public/what-gravitational-lensing) in cosmology refers by the bending of light due to mass between the source and Earth. This effect is very useful for inferring properties of the total mass distribution in our Universe, which is dominated by dark matter. Gravitational Lensing comes in two types: weak and strong.
+[Gravitational lensing](http://www.cfhtlens.org/public/what-gravitational-lensing) in cosmology refers to the bending of light due to mass between the source and Earth. This effect is very useful for inferring properties of the total mass distribution in our Universe, which is dominated by dark matter that we cannot see electromagnetically. Gravitational lensing comes in two types: weak and strong.
 
-Strong gravitational lensing refers to the cases where the lensing effect ( e.g. multiple images, clear shape distortions) is strong enough to be seen by the human eye, or equivalent, on an astronomical image. This only happens when a massive galaxy cluster lies between us and some background galaxies
+Strong gravitational lensing refers to the cases where the lensing effect (e.g. multiple images, clear shape distortions) is strong enough to be seen by the human eye, or equivalent, on an astronomical image. This only happens when a massive galaxy cluster lies between us and some background galaxies
 
-Weak gravitational lensing refers to the global effect that almost all far away galaxies are gravitationally lensed by a small amount, which changes their observed shape by roughly 1%. This can only be measured statistically when given a large number of observations, and not on an object-to-object basis.
+Weak gravitational lensing refers to the global effect that almost all far away galaxies are gravitationally lensed by a small amount, which changes their observed shape by roughly 1%. This can only be measured statistically when given a large number of samples, and not on an object-to-object basis.
 
 <a name='weak'></a>
 #### Weak Lensing
@@ -124,7 +124,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Learning from deep learning: better cosmological parameter inference from weak lensing maps* | CNN | https://arxiv.org/abs/1806.05995 |
 | *Cosmological constraints from noisy convergence maps through deep learning* | CNN | https://arxiv.org/abs/1807.08732 |
 | *On the dissection of degenerate cosmologies with machine learning* | CNN | https://arxiv.org/abs/1810.11027 |
-| *Distinguishing standard and modified gravity cosmologies with machine learning | CNN | https://arxiv.org/abs/1810.11030 | 
+| *Distinguishing standard and modified gravity cosmologies with machine learning* | CNN | https://arxiv.org/abs/1810.11030 | 
 
 <a name='strong'></a>
 #### Strong Lensing
