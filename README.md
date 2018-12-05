@@ -3,8 +3,8 @@ This github attempts to maintain a comprehensive list of published machine learn
 
 I am currently a PhD Candidate at the Canadian Institute for Theoretical astrophysics, broadly working on problems in computational cosmology, but with a great interest in machine learning methods, and just made this for fun and to help anyone with similar interests. More info about me can be found at https://www.cita.utoronto.ca/~gstein/, and cheers to whoever can find which one of the papers below is mine :beers: 
 
-## Table of Contents
 ---
+## Table of Contents
 #### Section List
 - [Dictionary](#dictionary)
 - [Large-Scale Structure](#structure)
