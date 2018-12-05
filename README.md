@@ -36,6 +36,7 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 * GAN: [Generative](https://towardsdatascience.com/generative-adversarial-networks-gans-a-beginners-guide-5b38eceece24) [Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets)
 * GBDT: [Gradient Boosted Regressor Trees](https://en.wikipedia.org/wiki/Gradient_boosting)
 * GPR: [Gaussian Process Regression](https://www.mathworks.com/help/stats/gaussian-process-regression-models.html)
+* GMM: [Gaussian Mixture Model](https://en.wikipedia.org/wiki/Mixture_model#Gaussian_mixture_model)
 * kNN: [k-Nearest Neighbours](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 * KRR: [Kernel](https://www.ics.uci.edu/~welling/classnotes/papers_class/Kernel-Ridge.pdf) [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization) [Regression](https://onlinecourses.science.psu.edu/stat857/node/155/)
 * MDN:  [Mixture](https://publications.aston.ac.uk/373/1/NCRG_94_004.pdf) [Density Network](https://cbonnett.github.io/MDN.html)
@@ -45,6 +46,7 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 * RF: [Random Forests](https://en.wikipedia.org/wiki/Random_forest)
 * RNN: [Recurrent](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) [Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 * RR: [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization) [Regression](https://onlinecourses.science.psu.edu/stat857/node/155/)
+* SVM: [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 * SVR: [Support Vector Regression](https://en.wikipedia.org/wiki/Support_vector_machine)
 * V-Net: [three dimensional](https://arxiv.org/abs/1606.04797) [U-Net](http://deeplearning.net/tutorial/unet.html)
 
@@ -62,12 +64,16 @@ The [Large-Scale structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
+| *A First Look at creating mock catalogs with machine learning techniques* | SVM, kNN | https://arxiv.org/abs/1303.1055 |
+| *Machine Learning Etudes in Astrophysics: Selection Functions for Mock Cluster Catalogs* | SVM, GMM | https://arxiv.org/abs/1409.1576 |
 | *PkANN I&2. Non-linear matter power spectrum interpolation through artificial neural networks* | NN | https://arxiv.org/abs/1203.1695, https://arxiv.org/abs/1312.2101 |
 | *Machine learning and cosmological simulations I.&II.* | kNN, DT, RF, ET | https://arxiv.org/abs/1510.06402 https://arxiv.org/abs/1510.07659 |
+| *Estimating Cosmological Parameters from the Dark Matter Distribution* | CNN | https://arxiv.org/abs/1711.02033 |
 | *Painting galaxies into dark matter haloes using machine learning* | SVR, kNN, MLP, DT, RF, ET, AdR | https://arxiv.org/abs/1712.03255 |
 | *Modeling the Impact of Baryons on Subhalo Populations with Machine Learning* | RF | https://arxiv.org/abs/1712.04467 |
 | *Fast cosmic web simulations with generative adversarial networks* | GAN | https://arxiv.org/abs/1801.09070 |
 | *Machine learning cosmological structure formation* | RF | https://arxiv.org/abs/1802.04271 | 
+| *A Machine Learning Approach to Galaxy-LSS Classification I: Imprints on Halo Merger Trees* | SVM | https://arxiv.org/abs/1803.11156 |
 | *Classifying the Large Scale Structure of the Universe with Deep Neural Networks* | V-Net | https://arxiv.org/abs/1804.00816 |
 | *A volumetric deep Convolutional Neural Network for simulation of mock dark matter halo catalogues* | V-Net | https://arxiv.org/abs/1805.04537 |
 | *Learning to Predict the Cosmological Structure Formation* | V-Net | https://arxiv.org/abs/1811.06533 |
