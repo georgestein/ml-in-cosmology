@@ -84,7 +84,7 @@ The [Large-Scale structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 ---
 <a name='reionization21cm'></a>
 ## Reionization and 21cm
-In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reionization) refers to the period when our universe went from the "Dark Ages" before major star and galaxy formation, to the ionized (neutral Hydrogen) state we see today. 
+In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reionization) refers to the period when our universe went from the "Dark Ages" before major star and galaxy formation, to the ionized state we see today. 
 
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
@@ -184,6 +184,9 @@ Contained here are some machine learning tools that are specifically designed fo
 <a name='reviews'></a>
 ## Reviews
 Reviews of machine learning in cosmology, and, more broadly, astronomy.
+
 | Title | arxiv link |
 | :---  | :---: |
 | *Data Mining and Machine Learning in Astronomy* | https://arxiv.org/abs/0906.2173 | 
+
+
