@@ -16,8 +16,11 @@ I am currently a PhD Candidate at the Canadian Institute for Theoretical astroph
   - [Strong Lensing](#strong)
 - [Cosmic Microwave Background](#cmb)
 - [Observational](#observational)
+  - [Redshift Prediction](#redshifts)
+  - [Other](#otherobservational)
 - [Tools](#tools)
 - [Reviews](#reviews)
+- [Acknowledgments](#acknowledgments)
 
 
 
@@ -28,17 +31,20 @@ A dictionary of all abbreviations for machine learning methods used in this comp
  
 * ADA: [AdaBoosted](https://en.wikipedia.org/wiki/AdaBoost) [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree_learning)
 * AdR: [AdaBoostRegressor](https://en.wikipedia.org/wiki/AdaBoost)
+* BDT: [Boosted Decision Tree](https://en.wikipedia.org/wiki/Gradient_boosting)
 * BRR: [Bayesian](https://en.wikipedia.org/wiki/Bayesian_linear_regression) [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization) [Regression](https://onlinecourses.science.psu.edu/stat857/node/155/)
 * CNN: [Convolutional Neural Network](https://cs231n.github.io/convolutional-networks/)
 * DCMDN: [Deep Convolutional Mixture Density Network](https://www.h-its.org/ain-software-en/deep-convolutional-mixture-density-networks/)
 * DT: [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree_learning)
-* ET: [Extremely Randomized Trees](https://link.springer.com/article/10.1007/s10994-006-6226-1)
+* EXT: [Extremely Randomized Trees](https://link.springer.com/article/10.1007/s10994-006-6226-1)
+* GA: [Genetic Algorithm](https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/)
 * GAN: [Generative](https://towardsdatascience.com/generative-adversarial-networks-gans-a-beginners-guide-5b38eceece24) [Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets)
-* GBDT: [Gradient Boosted Regressor Trees](https://en.wikipedia.org/wiki/Gradient_boosting)
 * GMM: [Gaussian Mixture Model](https://en.wikipedia.org/wiki/Mixture_model#Gaussian_mixture_model)
 * GPR: [Gaussian Process Regression](https://www.mathworks.com/help/stats/gaussian-process-regression-models.html)
+* HNN: [Hopfield Neural Network](https://www.doc.ic.ac.uk/~sd4215/hopfield.html)
 * kNN: [k-Nearest Neighbours](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 * KRR: [Kernel](https://www.ics.uci.edu/~welling/classnotes/papers_class/Kernel-Ridge.pdf) [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization) [Regression](https://onlinecourses.science.psu.edu/stat857/node/155/)
+* MINT:  [Mutual Information based Transductive Feature Selection](https://arxiv.org/abs/1310.1659)
 * MDN:  [Mixture](https://publications.aston.ac.uk/373/1/NCRG_94_004.pdf) [Density Network](https://cbonnett.github.io/MDN.html)
 * MLP: [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * NN: [Neural](https://en.wikipedia.org/wiki/Artificial_neural_network) [Network](https://cs231n.github.io/neural-networks-1/)
@@ -46,8 +52,10 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 * RF: [Random Forests](https://en.wikipedia.org/wiki/Random_forest)
 * RNN: [Recurrent](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) [Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 * RR: [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization) [Regression](https://onlinecourses.science.psu.edu/stat857/node/155/)
+* SOM: [Self Organising](https://en.wikipedia.org/wiki/Self-organizing_map) [Map](https://www.pitt.edu/~is2470pb/Spring05/FinalProjects/Group1a/tutorial/som.html)
 * SVM: [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine)
 * SVR: [Support Vector Regression](https://en.wikipedia.org/wiki/Support_vector_machine)
+* TINT: [Tree-Interpreter](https://github.com/andosa/treeinterpreter)
 * V-Net: [three dimensional](https://arxiv.org/abs/1606.04797) [U-Net](http://deeplearning.net/tutorial/unet.html)
 
 
@@ -58,7 +66,7 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 ## Large-Scale Structure
 
 
-The [Large-Scale structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coil1.html) of the universe is a field that relies on state-of-the art cosmological simulations to address a number of questions. Due to the computational complexity of these simulations, some investigations will remain computationally-infeasible for the forseeable future, and machine learning techniques can have a number of important uses.
+The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coil1.html) of the universe is a field that relies on state-of-the art cosmological simulations to address a number of questions. Due to the computational complexity of these simulations, some investigations will remain computationally-infeasible for the forseeable future, and machine learning techniques can have a number of important uses.
 <a name='formation'></a>
 #### Structure Formation
 
@@ -67,9 +75,9 @@ The [Large-Scale structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *A First Look at creating mock catalogs with machine learning techniques* | SVM, kNN | https://arxiv.org/abs/1303.1055 |
 | *Machine Learning Etudes in Astrophysics: Selection Functions for Mock Cluster Catalogs* | SVM, GMM | https://arxiv.org/abs/1409.1576 |
 | *PkANN I&2. Non-linear matter power spectrum interpolation through artificial neural networks* | NN | https://arxiv.org/abs/1203.1695, https://arxiv.org/abs/1312.2101 |
-| *Machine learning and cosmological simulations I.&II.* | kNN, DT, RF, ET | https://arxiv.org/abs/1510.06402 https://arxiv.org/abs/1510.07659 |
+| *Machine learning and cosmological simulations I.&II.* | kNN, DT, RF, EXT | https://arxiv.org/abs/1510.06402 https://arxiv.org/abs/1510.07659 |
 | *Estimating Cosmological Parameters from the Dark Matter Distribution* | CNN | https://arxiv.org/abs/1711.02033 |
-| *Painting galaxies into dark matter haloes using machine learning* | SVR, kNN, MLP, DT, RF, ET, AdR | https://arxiv.org/abs/1712.03255 |
+| *Painting galaxies into dark matter haloes using machine learning* | SVR, kNN, MLP, DT, RF, EXT, AdR | https://arxiv.org/abs/1712.03255 |
 | *Modeling the Impact of Baryons on Subhalo Populations with Machine Learning* | RF | https://arxiv.org/abs/1712.04467 |
 | *Fast cosmic web simulations with generative adversarial networks* | GAN | https://arxiv.org/abs/1801.09070 |
 | *Machine learning cosmological structure formation* | RF | https://arxiv.org/abs/1802.04271 | 
@@ -82,7 +90,7 @@ The [Large-Scale structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 #### Structure Identification
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
-| *An application of machine learning techniques to galaxy cluster mass estimation using the MACSIS simulations* | OLR, RR, BRR, KRR, SVR, DT, GBDT, ADA, kNN | https://arxiv.org/abs/1810.08430 |
+| *An application of machine learning techniques to galaxy cluster mass estimation using the MACSIS simulations* | OLR, RR, BRR, KRR, SVR, DT, BDT, ADA, kNN | https://arxiv.org/abs/1810.08430 |
 
 
 &nbsp;
@@ -118,10 +126,13 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 #### Weak Lensing
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
+| *Bias-Free Shear Estimation using Artificial Neural Networks* | NN | https://arxiv.org/abs/1002.0838 |
+| *Hopfield Neural Network deconvolution for weak lensing measurement* | HNN | https://arxiv.org/abs/1411.3193 |
 | *Creating Virtual Universes Using Generative Adversarial Networks* | GAN | https://arxiv.org/abs/1706.02390 |
 | *Cosmological model discrimination with Deep Learning* | CNN | https://arxiv.org/abs/1707.05167 |
 | *Non-Gaussian information from weak lensing data via deep learning* | CNN | https://arxiv.org/abs/1802.01212 |
 | *Learning from deep learning: better cosmological parameter inference from weak lensing maps* | CNN | https://arxiv.org/abs/1806.05995 |
+| *Weak-lensing shear measurement with machine learning: teaching artificial neural networks about feature noise* | NN | https://arxiv.org/abs/1807.02120 |
 | *Cosmological constraints from noisy convergence maps through deep learning* | CNN | https://arxiv.org/abs/1807.08732 |
 | *On the dissection of degenerate cosmologies with machine learning* | CNN | https://arxiv.org/abs/1810.11027 |
 | *Distinguishing standard and modified gravity cosmologies with machine learning* | CNN | https://arxiv.org/abs/1810.11030 | 
@@ -159,15 +170,57 @@ The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_mic
 <a name='observational'></a>
 ## Observational
 
-This section has a variety of machine learning papers used for various other observational applications.
+This section has a variety of machine learning papers used for various  observational applications.
+
+<a name='redshifts'></a>
+#### Redshifts
+This section is definitely not exhaustive - there is a massive amount of work in this subject area.  
 
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
+| *ANNz: estimating photometric redshifts using artificial neural networks* | NN | https://arxiv.org/abs/astro-ph/0311058 | 
+| *Estimating Photometric Redshifts Using Support Vector Machines* | SVM | https://arxiv.org/abs/astro-ph/0412005 |
 | *Robust Machine Learning Applied to Astronomical Data Sets. II. Quantifying Photometric Redshifts for Quasars Using Instance-based Learning* | kNN | https://arxiv.org/abs/astro-ph/0612471 |
 | *Robust Machine Learning Applied to Astronomical Data Sets. III. Probabilistic Photometric Redshifts for Galaxies and Quasars in the SDSS and GALEX* | kNN | https://arxiv.org/abs/0804.3413 |
+| *ArborZ: Photometric Redshifts Using Boosted Decision Trees* | BDT | https://arxiv.org/abs/0908.4085 |
+| *Unsupervised self-organised mapping: a versatile empirical tool for object selection, classification and redshift estimation in large surveys* | SOM | https://arxiv.org/abs/1110.0005 | 
+| *Can Self-Organizing Maps accurately predict photometric redshifts?* | SOM | https://arxiv.org/abs/1201.1098 |
+| *TPZ : Photometric redshift PDFs and ancillary information by using prediction trees and random forests* | RF | https://arxiv.org/abs/1303.7269 | 
+| *Estimating Photometric Redshifts of Quasars via K-nearest Neighbor Approach Based on Large Survey Databases* | kNN | https://arxiv.org/abs/1305.5023 |
+| *An approach to the analysis of SDSS spectroscopic outliers based on Self-Organizing Maps* | SOM | https://arxiv.org/abs/1309.2418 | 
+| *Using neural networks to estimate redshift distributions. An application to CFHTLenS* | NN | https://arxiv.org/abs/1312.1287 |
+| *SOMz: photometric redshift PDFs with self organizing maps and random atlas* | SOM | https://arxiv.org/abs/1312.5753 |
+| *Feature importance for machine learning redshifts applied to SDSS galaxies* | NN, ADA | https://arxiv.org/abs/1410.4696 |
+| *GAz: A Genetic Algorithm for Photometric Redshift Estimation* | GA | https://arxiv.org/abs/1412.5997 |
+| *Anomaly detection for machine learning redshifts applied to SDSS galaxies* | ADA, SOM, BDT | https://arxiv.org/abs/1503.08214 |
+| *Measuring photometric redshifts using galaxy images and Deep Neural Networks* | CNN, ADA | https://arxiv.org/abs/1504.07255 |
+| *A Sparse Gaussian Process Framework for Photometric Redshift Estimation* | NN, GPR | https://arxiv.org/abs/1505.05489 | 
+| *ANNz2 - photometric redshift and probability distribution function estimation using machine learning* | NN, BDT | https://arxiv.org/abs/1507.00490 | 
+| *DNF - Galaxy photometric redshift by Directional Neighbourhood Fitting* | kNN | https://arxiv.org/abs/1511.07623 | 
+| *Photometric Redshift Estimation for Quasars by Integration of KNN and SVM* | kNN, SVM | https://arxiv.org/abs/1601.01739 |
+| *Stacking for machine learning redshifts applied to SDSS galaxies* | SOM, DT | https://arxiv.org/abs/1602.06294 |
+| *GPz: Non-stationary sparse Gaussian processes for heteroscedastic uncertainty estimation in photometric redshifts* | GPR | https://arxiv.org/abs/1604.03593 |
+| *Photo-z with CuBANz: An improved photometric redshift estimator using Clustering aided Back Propagation Neural network* | NN | https://arxiv.org/abs/1609.03568 |
 | *Photometric redshift estimation via deep learning. Generalized and pre-classification-less, image based, fully probabilistic redshifts* | RF, MDN, DCMDN | https://arxiv.org/abs/1706.02467 |
+| *Photometric redshifts for the Kilo-Degree Survey. Machine-learning analysis with artificial neural networks* | NN, BDT | https://arxiv.org/abs/1709.04205 |
+| *Estimating Photometric Redshifts for X-ray sources in the X-ATLAS field, using machine-learning techniques* | RF | https://arxiv.org/abs/1710.01313 |
+| *Deep learning approach for classifying, detecting and predicting photometric redshifts of quasars in the Sloan Digital Sky Survey stripe 82* | CNN, kNN, SVM, RF, GPR | https://arxiv.org/abs/1712.02777 |
+| *Return of the features. Efficient feature selection and interpretation for photometric redshifts* | kNN | https://arxiv.org/abs/1803.10032 |
+| *Photometric redshifts from SDSS images using a Convolutional Neural Network* | CNN | https://arxiv.org/abs/1806.06607 | 
+
+
+<a name='other observational'></a>
+#### Other Observational
+| Title | ML technique(s) used | arxiv link |
+| :--- | :---: | :---: |
+| *Use of neural networks for the identification of new z>=3.6 QSOs from FIRST-SDSS DR5* | NN | https://arxiv.org/abs/0809.0547 | 
+| *Estimating the Mass of the Local Group using Machine Learning Applied to Numerical Simulations* | NN | https://arxiv.org/abs/1606.02694 |
+| *A probabilistic approach to emission-line galaxy classification* | GMM | https://arxiv.org/abs/1703.07607 |
 | *Deep Learning of Quasar Spectra to Discover and Characterize Damped Lya Systems* | CNN | https://arxiv.org/abs/1709.04962 | 
-| *Predicting the Neutral Hydrogen Content of Galaxies From Optical Data Using Machine Learning* | OLR, RF, GBDT, kNN, SVM, NN | https://arxiv.org/abs/1803.08334 |
+| *An automatic taxonomy of galaxy morphology using unsupervised machine learning* | SOM | https://arxiv.org/abs/1709.05834 | 
+| *Learning from the machine: interpreting machine learning algorithms for point- and extended- source classification* | RF, ADA, EXT, BDT, MINT, TINT | https://arxiv.org/abs/1712.03970 | 
+| *Predicting the Neutral Hydrogen Content of Galaxies From Optical Data Using Machine Learning* | OLR, RF, BDT, kNN, SVM, NN | https://arxiv.org/abs/1803.08334 |
+| *Classifying galaxy spectra at 0.5<z<1 with self-organizing maps* | SOM | https://arxiv.org/abs/1805.07845 |
 | *Knowledge transfer of Deep Learning for galaxy morphology from one survey to another* | CNN | https://arxiv.org/abs/1807.00807 |
 
 
@@ -195,4 +248,11 @@ Reviews of machine learning in cosmology, and, more broadly, astronomy.
 | :---  | :---: |
 | *Data Mining and Machine Learning in Astronomy* | https://arxiv.org/abs/0906.2173 | 
 
+&nbsp;
 
+---
+<a name='acknowledgments'></a>
+## Acknowledgments
+Thanks to the following people for bringing additional papers to my attention!
+
+Philippe Berger
