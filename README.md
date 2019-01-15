@@ -50,6 +50,7 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 * NN: [Neural](https://en.wikipedia.org/wiki/Artificial_neural_network) [Network](https://cs231n.github.io/neural-networks-1/)
 * OLR: [Ordinary Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 * RF: [Random Forests](https://en.wikipedia.org/wiki/Random_forest)
+* RIM: [Recurrent Interence Machines](https://arxiv.org/abs/1706.04008)
 * RNN: [Recurrent](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) [Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 * RR: [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization) [Regression](https://onlinecourses.science.psu.edu/stat857/node/155/)
 * SOM: [Self Organising](https://en.wikipedia.org/wiki/Self-organizing_map) [Map](https://www.pitt.edu/~is2470pb/Spring05/FinalProjects/Group1a/tutorial/som.html)
@@ -148,7 +149,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Uncertainties in Parameters Estimated with Neural Networks: Application to Strong Gravitational Lensing* | NN | https://arxiv.org/abs/1708.08843 |
 | *Testing convolutional neural networks for finding strong gravitational lenses in KiDS* | CNN | https://arxiv.org/abs/1807.04764 |
 | *Analyzing interferometric observations of strong gravitational lenses with recurrent and convolutional neural networks* | RNN, CNN | https://arxiv.org/abs/1808.00011 |
-
+| *Data-Driven Reconstruction of Gravitationally Lensed Galaxies using Recurrent Inference Machines* | RIM, CNN | https://arxiv.org/abs/1901.01359 |
 
 &nbsp;
 
