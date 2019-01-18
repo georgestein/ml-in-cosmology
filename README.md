@@ -130,7 +130,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | :--- | :---: | :---: |
 | *Bias-Free Shear Estimation using Artificial Neural Networks* | NN | https://arxiv.org/abs/1002.0838 |
 | *Hopfield Neural Network deconvolution for weak lensing measurement* | HNN | https://arxiv.org/abs/1411.3193 |
-| *Creating Virtual Universes Using Generative Adversarial Networks* | GAN | https://arxiv.org/abs/1706.02390 |
+| *CosmoGAN: creating high-fidelity weak lensing convergence maps using Generative Adversarial Networks* | GAN | https://arxiv.org/abs/1706.02390 |
 | *Cosmological model discrimination with Deep Learning* | CNN | https://arxiv.org/abs/1707.05167 |
 | *Non-Gaussian information from weak lensing data via deep learning* | CNN | https://arxiv.org/abs/1802.01212 |
 | *Learning from deep learning: better cosmological parameter inference from weak lensing maps* | CNN | https://arxiv.org/abs/1806.05995 |
