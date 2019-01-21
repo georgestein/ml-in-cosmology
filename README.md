@@ -84,6 +84,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Machine learning cosmological structure formation* | RF | https://arxiv.org/abs/1802.04271 | 
 | *A Machine Learning Approach to Galaxy-LSS Classification I: Imprints on Halo Merger Trees* | SVM | https://arxiv.org/abs/1803.11156 |
 | *Classifying the Large Scale Structure of the Universe with Deep Neural Networks* | V-Net | https://arxiv.org/abs/1804.00816 |
+| *Cosmological Reconstruction From Galaxy Light: Neural Network Based Light-Matter Connection*| NN | https://arxiv.org/abs/1805.02247 | 
 | *A volumetric deep Convolutional Neural Network for simulation of mock dark matter halo catalogues* | V-Net | https://arxiv.org/abs/1805.04537 |
 | *Learning to Predict the Cosmological Structure Formation* | V-Net | https://arxiv.org/abs/1811.06533 |
 | *deepCool: Fast and Accurate Estimation of Cooling Rates in Irradiated Gas with Artificial Neural Networks* | NN, RF, kNN | https://arxiv.org/abs/1901.01264 |
