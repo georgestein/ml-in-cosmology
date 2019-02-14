@@ -58,7 +58,7 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 * SVR: [Support Vector Regression](https://en.wikipedia.org/wiki/Support_vector_machine)
 * TINT: [Tree-Interpreter](https://github.com/andosa/treeinterpreter)
 * V-Net: [three dimensional](https://arxiv.org/abs/1606.04797) [U-Net](http://deeplearning.net/tutorial/unet.html)
-
+* XGBoost: [eXtreme Gradient Boosting](https://xgboost.readthedocs.io/en/latest/)
 
 &nbsp;
 
@@ -94,7 +94,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
 | *An application of machine learning techniques to galaxy cluster mass estimation using the MACSIS simulations* | OLR, RR, BRR, KRR, SVR, DT, BDT, ADA, kNN | https://arxiv.org/abs/1810.08430 |
-
+| *Prediction of galaxy halo masses in SDSS DR7 via a machine learning approach* | XGBoost, RF, NN | https://arxiv.org/abs/1902.02680 | 
 
 &nbsp;
 
@@ -139,6 +139,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Cosmological constraints from noisy convergence maps through deep learning* | CNN | https://arxiv.org/abs/1807.08732 |
 | *On the dissection of degenerate cosmologies with machine learning* | CNN | https://arxiv.org/abs/1810.11027 |
 | *Distinguishing standard and modified gravity cosmologies with machine learning* | CNN | https://arxiv.org/abs/1810.11030 | 
+| *Weak lensing cosmology with convolutional neural networks on noisy data* | CNN | https://arxiv.org/abs/1902.03663 |
 
 <a name='strong'></a>
 #### Strong Lensing
@@ -163,8 +164,6 @@ The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_mic
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
 | *DeepCMB: Lensing Reconstruction of the Cosmic Microwave Background with Deep Neural Networks* | CNN | https://arxiv.org/abs/1810.01483 |
-
-
 
 
 &nbsp;
@@ -238,6 +237,7 @@ Contained here are some machine learning tools that are specifically designed fo
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
 | *CosmoFlow: Using Deep Learning to Learn the Universe at Scale* | CNN | https://arxiv.org/abs/1808.04728 |
+| *Convolutional Neural Networks on the HEALPix sphere: a pixel-based algorithm and its application to CMB data analysis* | CNN | https://arxiv.org/abs/1902.04083 | 
 
 
 &nbsp;
@@ -259,3 +259,4 @@ Reviews of machine learning in cosmology, and, more broadly, astronomy.
 Thanks to the following people for bringing additional papers to my attention!
 
 Philippe Berger
+Dana Simard
