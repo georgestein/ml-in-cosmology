@@ -228,8 +228,6 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Classifying galaxy spectra at 0.5<z<1 with self-organizing maps* | SOM | https://arxiv.org/abs/1805.07845 |
 | *Knowledge transfer of Deep Learning for galaxy morphology from one survey to another* | CNN | https://arxiv.org/abs/1807.00807 |
 | *Classification of Broad Absorption Line Quasars with a Convolutional Neural Network* | CNN | https://arxiv.org/abs/1901.04506 | 
-
-
 &nbsp;
 
 ---
@@ -253,7 +251,7 @@ Reviews of machine learning in cosmology, and, more broadly, astronomy.
 | Title | arxiv link |
 | :---  | :---: |
 | *Data Mining and Machine Learning in Astronomy* | https://arxiv.org/abs/0906.2173 | 
-
+| *The Role of Machine Learning in the Next Decade of Cosmology* | https://arxiv.org/abs/1902.10159 |
 &nbsp;
 
 ---
