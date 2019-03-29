@@ -18,6 +18,7 @@ I am currently a PhD Candidate at the Canadian Institute for Theoretical astroph
 - [Observational](#observational)
   - [Redshift Prediction](#redshifts)
   - [Other](#otherobservational)
+- [Parameter Estimation](#parameters)
 - [Tools](#tools)
 - [Reviews](#reviews)
 - [Acknowledgments](#acknowledgments)
@@ -44,6 +45,7 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 * HNN: [Hopfield Neural Network](https://www.doc.ic.ac.uk/~sd4215/hopfield.html)
 * kNN: [k-Nearest Neighbours](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 * KRR: [Kernel](https://www.ics.uci.edu/~welling/classnotes/papers_class/Kernel-Ridge.pdf) [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization) [Regression](https://onlinecourses.science.psu.edu/stat857/node/155/)
+* MAF: [Masked Autoregressive Flows](https://arxiv.org/pdf/1705.07057.pdf)
 * MINT:  [Mutual Information based Transductive Feature Selection](https://arxiv.org/abs/1310.1659)
 * MDN:  [Mixture](https://publications.aston.ac.uk/373/1/NCRG_94_004.pdf) [Density Network](https://cbonnett.github.io/MDN.html)
 * MLP: [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
@@ -89,6 +91,8 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Learning to Predict the Cosmological Structure Formation* | V-Net | https://arxiv.org/abs/1811.06533 |
 | *deepCool: Fast and Accurate Estimation of Cooling Rates in Irradiated Gas with Artificial Neural Networks* | NN, RF, kNN | https://arxiv.org/abs/1901.01264 |
 | *From Dark Matter to Galaxies with Convolutional Networks* | V-Net | https://arxiv.org/abs/1902.05965 | 
+| *Painting halos from 3D dark matter fields using Wasserstein mapping networks* | GAN | https://arxiv.org/abs/1903.10524 |
+| *Painting with baryons: augmenting N-body simulations with gas using deep generative models* | GAN, VAE | https://arxiv.org/abs/1903.12173 |
  
 <a name='identification'></a>
 #### Structure Identification
@@ -231,6 +235,18 @@ This section is definitely not exhaustive - there is a massive amount of work in
 &nbsp;
 
 ---
+<a name='parameters'></a>
+## Parameter Estimation
+Cosmological parameter estimation is the mechanism of inferring the contents and evolution of our universe from observations. Note this section is unfinished 
+
+| Title | ML technique(s) used | arxiv link |
+| :--- | :---: | :---: |
+| *Fast likelihood-free cosmology with neural density estimators and active learning* | MDN, MAF | https://arxiv.org/abs/1903.00007 |
+| *Accelerated Bayesian inference using deep learning* | NN | https://arxiv.org/abs/1903.10860 |
+
+&nbsp;
+
+---
 <a name='tools'></a>
 ## Tools
 Contained here are some machine learning tools that are specifically designed for the computational challenges of cosmology. 
@@ -239,7 +255,6 @@ Contained here are some machine learning tools that are specifically designed fo
 | :--- | :---: | :---: |
 | *CosmoFlow: Using Deep Learning to Learn the Universe at Scale* | CNN | https://arxiv.org/abs/1808.04728 |
 | *Convolutional Neural Networks on the HEALPix sphere: a pixel-based algorithm and its application to CMB data analysis* | CNN | https://arxiv.org/abs/1902.04083 | 
-
 
 &nbsp;
 
