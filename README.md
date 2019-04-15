@@ -117,7 +117,7 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Reionization Models Classifier using 21cm Map Deep Learning* | CNN | https://arxiv.org/abs/1801.06381 |
 | *Deep learning from 21-cm images of the Cosmic Dawn* | CNN | https://arxiv.org/abs/1805.02699 | 
 | *Evaluating machine learning techniques for predicting power spectra from reionization simulations* | SVM, MLP, GPR | https://arxiv.org/abs/1811.09141 |
-
+| *Improved supervised learning methods for EoR parameters reconstruction* | CNN | https://arxiv.org/abs/1904.04106 |
 
 
 
@@ -238,7 +238,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 ---
 <a name='parameters'></a>
 ## Parameter Estimation
-Cosmological parameter estimation is the mechanism of inferring the contents and evolution of our universe from observations. Note this section is unfinished 
+Cosmological parameter estimation is the mechanism of inferring the contents and evolution of our universe from observations. This topic is quite broad, and therefore parameter estimation papers with a focus on an individual experiment/dataset can be found in other section (e.g. the Rrionization and 21cm section). Note this section is unfinished 
 
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
