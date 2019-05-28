@@ -236,9 +236,10 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Classifying galaxy spectra at 0.5<z<1 with self-organizing maps* | SOM | https://arxiv.org/abs/1805.07845 |
 | *Knowledge transfer of Deep Learning for galaxy morphology from one survey to another* | CNN | https://arxiv.org/abs/1807.00807 |
 | *Classification of Broad Absorption Line Quasars with a Convolutional Neural Network* | CNN | https://arxiv.org/abs/1901.04506 | 
-&nbsp;
 | *Generative deep fields: arbitrarily sized, random synthetic astronomical images through deep learning* | GAN | https://arxiv.org/abs/1904.10286 |
 | *Deconfusing intensity maps with neural networks* | CNN | https://arxiv.org/abs/1905.10376 |
+
+&nbsp;
 ---
 <a name='parameters'></a>
 ## Parameter Estimation
