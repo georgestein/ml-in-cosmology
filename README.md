@@ -151,6 +151,8 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Denoising Weak Lensing Mass Maps with Deep Learning* | GAN | https://arxiv.org/abs/1812.05781 |
 | *Weak lensing cosmology with convolutional neural networks on noisy data* | CNN | https://arxiv.org/abs/1902.03663 |
 | *Galaxy shape measurement with convolutional neural networks* | CNN | https://arxiv.org/abs/1902.08161 |
+| *Cosmological constraints with deep learning from KiDS-450 weak lensing maps* | CNN | https://arxiv.org/abs/1906.03156 |
+
 
 <a name='strong'></a>
 #### Strong Lensing
