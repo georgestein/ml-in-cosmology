@@ -20,6 +20,7 @@ I am currently a postdoctoral researcher at the Berkeley Center for Cosmological
   - [Other](#otherobservational)
 - [Parameter Estimation](#parameters)
 - [Tools](#tools)
+- [Datasets](#datasets)
 - [Reviews](#reviews)
 - [Acknowledgments](#acknowledgments)
 
@@ -282,6 +283,18 @@ Contained here are some machine learning tools that are specifically designed fo
 &nbsp;
 
 ---
+<a name='datasets'></a>
+## Tools
+Contained here are some cosmological machine learning datasets. 
+
+| Title | arxiv link | github link |
+| :--- | :---: | :---: |
+| *Aemulus Project* | https://arxiv.org/abs/1804.05865 | https://aemulusproject.github.io/ |
+| *The Quijote simulations* | https://arxiv.org/abs/1909.05273 | https://github.com/franciscovillaescusa/Quijote-simulations | 
+
+&nbsp;
+
+---
 <a name='reviews'></a>
 ## Reviews
 Reviews of machine learning in cosmology, and, more broadly, astronomy.
@@ -291,6 +304,7 @@ Reviews of machine learning in cosmology, and, more broadly, astronomy.
 | *Data Mining and Machine Learning in Astronomy* | https://arxiv.org/abs/0906.2173 | 
 | *The Role of Machine Learning in the Next Decade of Cosmology* | https://arxiv.org/abs/1902.10159 |
 | *Machine learning and the physical sciences* | https://arxiv.org/abs/1903.10563 |
+
 &nbsp;
 
 ---
@@ -299,4 +313,5 @@ Reviews of machine learning in cosmology, and, more broadly, astronomy.
 Thanks to the following people for bringing additional papers to my attention!
 
 Philippe Berger
+
 Dana Simard
