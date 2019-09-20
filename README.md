@@ -45,6 +45,7 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 * HNN: [Hopfield Neural Network](https://www.doc.ic.ac.uk/~sd4215/hopfield.html)
 * kNN: [k-Nearest Neighbours](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 * KRR: [Kernel](https://www.ics.uci.edu/~welling/classnotes/papers_class/Kernel-Ridge.pdf) [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization) [Regression](https://onlinecourses.science.psu.edu/stat857/node/155/)
+* NPE: Neural Physical Engine
 * MAF: [Masked Autoregressive Flows](https://arxiv.org/pdf/1705.07057.pdf)
 * MINT:  [Mutual Information based Transductive Feature Selection](https://arxiv.org/abs/1310.1659)
 * MDN:  [Mixture](https://publications.aston.ac.uk/373/1/NCRG_94_004.pdf) [Density Network](https://cbonnett.github.io/MDN.html)
@@ -95,9 +96,11 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Painting with baryons: augmenting N-body simulations with gas using deep generative models* | GAN, VAE | https://arxiv.org/abs/1903.12173 |
 | *HIGAN: Cosmic Neutral Hydrogen with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/1904.12846 |
 | *A deep learning model to emulate simulations of cosmic reionization* | CNN | https://arxiv.org/abs/1905.06958 |
+| *An interpretable machine learning framework for dark matter halo formation* | BDT | https://arxiv.org/abs/1906.06339 | 
 | *Cosmological N-body simulations: a challenge for scalable generative models* | GAN | https://arxiv.org/abs/1908.05519 |
 | *Cosmological parameter estimation from large-scale structure deep learning* | CNN | https://arxiv.org/abs/1908.10590 |
- 
+| *Neural physical engines for inferring the halo mass distribution function* | NPE | https://arxiv.org/abs/1909.06379 |
+
 <a name='identification'></a>
 #### Structure Identification
 | Title | ML technique(s) used | arxiv link |
@@ -169,7 +172,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Analyzing interferometric observations of strong gravitational lenses with recurrent and convolutional neural networks* | RNN, CNN | https://arxiv.org/abs/1808.00011 |
 | *Data-Driven Reconstruction of Gravitationally Lensed Galaxies using Recurrent Inference Machines* | RIM, CNN | https://arxiv.org/abs/1901.01359 |
 | *Mining for Dark Matter Substructure: Inferring subhalo population properties from strong lenses with machine learning* | NN | https://arxiv.org/abs/1909.02005 |
-
+| *Deep Learning the Morphology of Dark Matter Substructure* | CNN | https://arxiv.org/abs/1909.07346 |
 &nbsp;
 
 ---
