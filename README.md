@@ -20,7 +20,7 @@ I am currently a postdoctoral researcher at the Berkeley Center for Cosmological
   - [Other](#otherobservational)
 - [Parameter Estimation](#parameters)
 - [Tools](#tools)
-- [Datasets](#datasets)
+- [Public Datasets](#datasets)
 - [Reviews](#reviews)
 - [Acknowledgments](#acknowledgments)
 
@@ -284,7 +284,7 @@ Contained here are some machine learning tools that are specifically designed fo
 
 ---
 <a name='datasets'></a>
-## Tools
+## Public Datasets
 Contained here are some cosmological machine learning datasets. 
 
 | Title | arxiv link | github link |
