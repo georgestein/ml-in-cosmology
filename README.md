@@ -235,7 +235,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Photometric redshifts from SDSS images using a Convolutional Neural Network* | CNN | https://arxiv.org/abs/1806.06607 | 
 | *Estimating redshift distributions using Hierarchical Logistic Gaussian processes* | GPR | https://arxiv.org/abs/1904.09988 |
 | *Gaussian Mixture Models for Blended Photometric Redshifts* | GMM | https://arxiv.org/abs/1907.10572 | 
-| *Photometric Redshift Calibration with Self Organising Maps | SOM | https://arxiv.org/abs/1909.09632 |
+| *Photometric Redshift Calibration with Self Organising Maps* | SOM | https://arxiv.org/abs/1909.09632 |
 
 <a name='other observational'></a>
 #### Other Observational
@@ -255,7 +255,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Deconfusing intensity maps with neural networks* | CNN | https://arxiv.org/abs/1905.10376 |
 | *Deep-CEE I: Fishing for Galaxy Clusters with Deep Neural Nets* | RCNN | https://arxiv.org/abs/1906.08784 |
 | *Improving Galaxy Clustering Measurements with Deep Learning: analysis of the DECaLS DR7 data* | NN | https://arxiv.org/abs/1907.11355 |
-
+| *What can Machine Learning tell us about the background expansion of the Universe?* | GA | https://arxiv.org/abs/1910.01529 |
 &nbsp;
 ---
 <a name='parameters'></a>
