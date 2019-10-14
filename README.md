@@ -103,6 +103,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Neural physical engines for inferring the halo mass distribution function* | NPE | https://arxiv.org/abs/1909.06379 |
 | *A Hybrid Deep Learning Approach to Cosmological Constraints From Galaxy Redshift Surveys* | CNN | https://arxiv.org/abs/1909.10527 |
 | *A black box for dark sector physics: Predicting dark matter annihilation feedback with conditional GANs | cGAN | https://arxiv.org/abs/1910.00291 |
+| *Learning neutrino effects in Cosmology with Convolutional Neural Networks* | V-Net |https://arxiv.org/abs/1910.04255 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -196,7 +197,7 @@ The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_mic
 <a name='observational'></a>
 ## Observational
 
-This section has a variety of machine learning papers used for various  observational applications.
+This section has a variety of machine learning papers used for various observational applications.
 
 <a name='redshifts'></a>
 #### Redshifts
@@ -237,7 +238,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Gaussian Mixture Models for Blended Photometric Redshifts* | GMM | https://arxiv.org/abs/1907.10572 | 
 | *Photometric Redshift Calibration with Self Organising Maps* | SOM | https://arxiv.org/abs/1909.09632 |
 
-<a name='other observational'></a>
+<a name='otherobservational'></a>
 #### Other Observational
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
@@ -256,6 +257,9 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Deep-CEE I: Fishing for Galaxy Clusters with Deep Neural Nets* | RCNN | https://arxiv.org/abs/1906.08784 |
 | *Improving Galaxy Clustering Measurements with Deep Learning: analysis of the DECaLS DR7 data* | NN | https://arxiv.org/abs/1907.11355 |
 | *What can Machine Learning tell us about the background expansion of the Universe?* | GA | https://arxiv.org/abs/1910.01529 |
+| *Reconstructing Functions and Estimating Parameters with Artificial Neural Network: a test with Hubble parameter and SNe Ia* | NN, RNN, LSTM, GRU | https://arxiv.org/abs/1910.03636 |
+| *Multi-wavelength properties of radio and machine-learning identified counterparts to submillimeter sources in S2COSMOS* | SVM, XGBoost | https://arxiv.org/abs/1910.03596 |
+
 &nbsp;
 ---
 <a name='parameters'></a>
