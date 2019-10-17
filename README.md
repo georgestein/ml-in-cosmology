@@ -178,6 +178,8 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Mining for Dark Matter Substructure: Inferring subhalo population properties from strong lenses with machine learning* | NN | https://arxiv.org/abs/1909.02005 |
 | *Deep Learning the Morphology of Dark Matter Substructure* | CNN | https://arxiv.org/abs/1909.07346 |
 | *Circumventing Lens Modeling to Detect Dark Matter Substructure in Strong Lens Images with Convolutional Neural Networks* | CNN | https://arxiv.org/abs/1910.00015 |
+| *Differentiable Strong Lensing: Uniting Gravity and Neural Nets through Differentiable Probabilistic Programming* | VAE | https://arxiv.org/abs/1910.06157 |
+
 &nbsp;
 
 ---
@@ -259,6 +261,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *What can Machine Learning tell us about the background expansion of the Universe?* | GA | https://arxiv.org/abs/1910.01529 |
 | *Reconstructing Functions and Estimating Parameters with Artificial Neural Network: a test with Hubble parameter and SNe Ia* | NN, RNN, LSTM, GRU | https://arxiv.org/abs/1910.03636 |
 | *Multi-wavelength properties of radio and machine-learning identified counterparts to submillimeter sources in S2COSMOS* | SVM, XGBoost | https://arxiv.org/abs/1910.03596 |
+| *Machine learning computation of distance modulus for local galaxies* | kNN, BDT, NN | https://arxiv.org/abs/1910.07317 | 
 
 &nbsp;
 ---
