@@ -102,7 +102,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Cosmological parameter estimation from large-scale structure deep learning* | CNN | https://arxiv.org/abs/1908.10590 |
 | *Neural physical engines for inferring the halo mass distribution function* | NPE | https://arxiv.org/abs/1909.06379 |
 | *A Hybrid Deep Learning Approach to Cosmological Constraints From Galaxy Redshift Surveys* | CNN | https://arxiv.org/abs/1909.10527 |
-| *A black box for dark sector physics: Predicting dark matter annihilation feedback with conditional GANs | cGAN | https://arxiv.org/abs/1910.00291 |
+| *A black box for dark sector physics: Predicting dark matter annihilation feedback with conditional GANs* | cGAN | https://arxiv.org/abs/1910.00291 |
 | *Learning neutrino effects in Cosmology with Convolutional Neural Networks* | V-Net |https://arxiv.org/abs/1910.04255 |
 
 <a name='identification'></a>
@@ -113,6 +113,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Prediction of galaxy halo masses in SDSS DR7 via a machine learning approach* | XGBoost, RF, NN | https://arxiv.org/abs/1902.02680 | 
 | *A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters* | CNN | https://arxiv.org/abs/1902.05950 |
 | *Multiwavelength cluster mass estimates and machine learning* | GB, RF | https://arxiv.org/abs/1905.09920 |
+| *Large-scale structures in the LCDM Universe: network analysis and machine learning* | XGBoost | https://arxiv.org/abs/1910.07868 |
 
 &nbsp;
 
