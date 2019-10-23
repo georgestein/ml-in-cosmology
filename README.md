@@ -156,6 +156,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Learning from deep learning: better cosmological parameter inference from weak lensing maps* | CNN | https://arxiv.org/abs/1806.05995 |
 | *Weak-lensing shear measurement with machine learning: teaching artificial neural networks about feature noise* | NN | https://arxiv.org/abs/1807.02120 |
 | *Cosmological constraints from noisy convergence maps through deep learning* | CNN | https://arxiv.org/abs/1807.08732 |
+| *Weak lensing shear estimation beyond the shape-noise limit: a machine learning approach* | CNN | https://arxiv.org/abs/1808.07491 |
 | *On the dissection of degenerate cosmologies with machine learning* | CNN | https://arxiv.org/abs/1810.11027 |
 | *Distinguishing standard and modified gravity cosmologies with machine learning* | CNN | https://arxiv.org/abs/1810.11030 |
 | *Denoising Weak Lensing Mass Maps with Deep Learning* | GAN | https://arxiv.org/abs/1812.05781 |
