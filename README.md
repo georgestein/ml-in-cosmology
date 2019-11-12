@@ -132,7 +132,7 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Evaluating machine learning techniques for predicting power spectra from reionization simulations* | SVM, MLP, GPR | https://arxiv.org/abs/1811.09141 |
 | *Improved supervised learning methods for EoR parameters reconstruction* | CNN | https://arxiv.org/abs/1904.04106 |
 | *Constraining the astrophysics and cosmology from 21cm tomography using deep learning with the SKA*| CNN | https://arxiv.org/abs/1907.07787 | 
-
+| *21cm Global Signal Extraction: Extracting the 21cm Global Signal using Artificial Neural Networks* | NN | https://arxiv.org/abs/1911.02580 |
 
 &nbsp;
 ---
@@ -181,7 +181,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Deep Learning the Morphology of Dark Matter Substructure* | CNN | https://arxiv.org/abs/1909.07346 |
 | *Circumventing Lens Modeling to Detect Dark Matter Substructure in Strong Lens Images with Convolutional Neural Networks* | CNN | https://arxiv.org/abs/1910.00015 |
 | *Differentiable Strong Lensing: Uniting Gravity and Neural Nets through Differentiable Probabilistic Programming* | VAE | https://arxiv.org/abs/1910.06157 |
-
+| *Identifying Strong Lenses with Unsupervised Machine Learning using Convolutional Autoencoder* | VAE | https://arxiv.org/abs/1911.04320 || *Modular Deep Learning Analysis of Galaxy-Scale Strong Lensing Images* | CNN | https://arxiv.org/abs/1911.03867 | 
 &nbsp;
 
 ---
