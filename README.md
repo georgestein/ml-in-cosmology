@@ -34,6 +34,7 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 * ADA: [AdaBoosted](https://en.wikipedia.org/wiki/AdaBoost) [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree_learning)
 * AdR: [AdaBoostRegressor](https://en.wikipedia.org/wiki/AdaBoost)
 * BDT: [Boosted Decision Tree](https://en.wikipedia.org/wiki/Gradient_boosting)
+* BNN: [Bayesian Neural Network](https://krasserm.github.io/2019/03/14/bayesian-neural-networks/)
 * BRR: [Bayesian](https://en.wikipedia.org/wiki/Bayesian_linear_regression) [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization) [Regression](https://onlinecourses.science.psu.edu/stat857/node/155/)
 * CNN: [Convolutional Neural Network](https://cs231n.github.io/convolutional-networks/)
 * DCMDN: [Deep Convolutional Mixture Density Network](https://www.h-its.org/ain-software-en/deep-convolutional-mixture-density-networks/)
@@ -164,6 +165,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Galaxy shape measurement with convolutional neural networks* | CNN | https://arxiv.org/abs/1902.08161 |
 | *Cosmological constraints with deep learning from KiDS-450 weak lensing maps* | CNN | https://arxiv.org/abs/1906.03156 |
 | *Deep learning dark matter map reconstructions from DES SV weak lensing data* | U-Net | https://arxiv.org/abs/1908.00543 |
+| *Decoding Cosmological Information in Weak-Lensing Mass Maps with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/1911.12890 |
 
 <a name='strong'></a>
 #### Strong Lensing
@@ -278,7 +280,7 @@ Cosmological parameter estimation is the mechanism of inferring the contents and
 | *Accelerated Bayesian inference using deep learning* | NN | https://arxiv.org/abs/1903.10860 |
 | *Cosmic Inference: Constraining Parameters With Observations and Highly Limited Number of Simulations* | GP | https://arxiv.org/abs/1905.07410 | 
 | *Euclid-era cosmology for everyone: Neural net assisted MCMC sampling for the joint 3x2 likelihood* | NN | https://arxiv.org/abs/1907.05881 |
-
+| *Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks* | BNNs | https://arxiv.org/abs/1911.08508 |
 
 &nbsp;
 
