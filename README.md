@@ -114,7 +114,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
 
-| *A Machine Learning Approach for Dynamical Mass Measurements of Galaxy Clusters* | SDM | https://arxiv.org/abs/1410.0686 https://arxiv.org/abs/1509.05409 |
+| *A Machine Learning Approach for Dynamical Mass Measurements of Galaxy Clusters* | SDM | https://arxiv.org/abs/1410.0686, https://arxiv.org/abs/1509.05409 |
 | *A Deep Learning Approach to Galaxy Cluster X-ray Masses* | CNN | https://arxiv.org/abs/1810.07703 |
 | *An application of machine learning techniques to galaxy cluster mass estimation using the MACSIS simulations* | OLR, RR, BRR, KRR, SVR, DT, BDT, ADA, kNN | https://arxiv.org/abs/1810.08430 |
 | *Prediction of galaxy halo masses in SDSS DR7 via a machine learning approach* | XGBoost, RF, NN | https://arxiv.org/abs/1902.02680 | 
