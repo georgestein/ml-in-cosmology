@@ -105,15 +105,22 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *A Hybrid Deep Learning Approach to Cosmological Constraints From Galaxy Redshift Surveys* | CNN | https://arxiv.org/abs/1909.10527 |
 | *A black box for dark sector physics: Predicting dark matter annihilation feedback with conditional GANs* | cGAN | https://arxiv.org/abs/1910.00291 |
 | *Learning neutrino effects in Cosmology with Convolutional Neural Networks* | V-Net |https://arxiv.org/abs/1910.04255 |
-
+| *Predicting dark matter halo formation in N-body simulations with deep regression networks* | V-Net | https://arxiv.org/abs/1912.04299 |
+| *Probabilistic cosmic web classification using fast-generated training data* | RF | https://arxiv.org/abs/1912.04412 |
+| *Super-resolution emulator of cosmological simulations using deep physical models* | WGAN | https://arxiv.org/abs/2001.05519 |
+ 
 <a name='identification'></a>
 #### Structure Identification
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
+
+| *A Machine Learning Approach for Dynamical Mass Measurements of Galaxy Clusters* | SDM | https://arxiv.org/abs/1410.0686 https://arxiv.org/abs/1509.05409 |
+| *A Deep Learning Approach to Galaxy Cluster X-ray Masses* | CNN | https://arxiv.org/abs/1810.07703 |
 | *An application of machine learning techniques to galaxy cluster mass estimation using the MACSIS simulations* | OLR, RR, BRR, KRR, SVR, DT, BDT, ADA, kNN | https://arxiv.org/abs/1810.08430 |
 | *Prediction of galaxy halo masses in SDSS DR7 via a machine learning approach* | XGBoost, RF, NN | https://arxiv.org/abs/1902.02680 | 
 | *A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters* | CNN | https://arxiv.org/abs/1902.05950 |
 | *Multiwavelength cluster mass estimates and machine learning* | GB, RF | https://arxiv.org/abs/1905.09920 |
+| *Using X-Ray Morphological Parameters to Strengthen Galaxy Cluster Mass Estimates via Machine Learning* | RF | https://arxiv.org/abs/1908.02765 |
 | *Large-scale structures in the LCDM Universe: network analysis and machine learning* | XGBoost | https://arxiv.org/abs/1910.07868 |
 
 &nbsp;
@@ -196,7 +203,7 @@ The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_mic
 | *DeepCMB: Lensing Reconstruction of the Cosmic Microwave Background with Deep Neural Networks* | CNN | https://arxiv.org/abs/1810.01483 |
 | *Fast Wiener filtering of CMB maps with Neural Networks* | U-Net | https://arxiv.org/abs/1905.05846 |
 | *CMB-GAN: Fast Simulations of Cosmic Microwave background anisotropy maps using Deep Learning* | GAN | https://arxiv.org/abs/1908.04682 |
-
+| *CosmoVAE: Variational Autoencoder for CMB Image Inpainting* | VAE | https://arxiv.org/abs/2001.11651 |
 &nbsp;
 
 ---
@@ -266,12 +273,13 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Reconstructing Functions and Estimating Parameters with Artificial Neural Network: a test with Hubble parameter and SNe Ia* | NN, RNN, LSTM, GRU | https://arxiv.org/abs/1910.03636 |
 | *Multi-wavelength properties of radio and machine-learning identified counterparts to submillimeter sources in S2COSMOS* | SVM, XGBoost | https://arxiv.org/abs/1910.03596 |
 | *Machine learning computation of distance modulus for local galaxies* | kNN, BDT, NN | https://arxiv.org/abs/1910.07317 | 
+| *MILCANN : A neural network assessed tSZ map for galaxy cluster detection* | NN | https://arxiv.org/abs/1702.00075 |
 
 &nbsp;
 ---
 <a name='parameters'></a>
 ## Parameter Estimation
-Cosmological parameter estimation is the mechanism of inferring the contents and evolution of our universe from observations. This topic is quite broad, and therefore parameter estimation papers with a focus on an individual experiment/dataset can be found in other section (e.g. the Rrionization and 21cm section). Note this section is unfinished 
+Cosmological parameter estimation is the mechanism of inferring the contents and evolution of our universe from observations. This topic is quite broad, and therefore parameter estimation papers with a focus on an individual experiment/dataset can be found in other sections (e.g. the Reionization and 21cm section). Note this section is unfinished 
 
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
@@ -330,3 +338,5 @@ Thanks to the following people for bringing additional papers to my attention!
 Philippe Berger
 
 Dana Simard
+
+Michelle Ntampaka
