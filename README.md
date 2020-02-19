@@ -249,7 +249,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Estimating redshift distributions using Hierarchical Logistic Gaussian processes* | GPR | https://arxiv.org/abs/1904.09988 |
 | *Gaussian Mixture Models for Blended Photometric Redshifts* | GMM | https://arxiv.org/abs/1907.10572 | 
 | *Photometric Redshift Calibration with Self Organising Maps* | SOM | https://arxiv.org/abs/1909.09632 |
-
+| *Reliable Photometric Membership (RPM) of Galaxies in Clusters. I. A Machine Learning Method and its Performance in the Local Universe* | SVM | https://arxiv.org/abs/2002.07263 | 
 <a name='otherobservational'></a>
 #### Other Observational
 | Title | ML technique(s) used | arxiv link |
