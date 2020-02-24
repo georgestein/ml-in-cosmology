@@ -140,6 +140,8 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Improved supervised learning methods for EoR parameters reconstruction* | CNN | https://arxiv.org/abs/1904.04106 |
 | *Constraining the astrophysics and cosmology from 21cm tomography using deep learning with the SKA*| CNN | https://arxiv.org/abs/1907.07787 | 
 | *21cm Global Signal Extraction: Extracting the 21cm Global Signal using Artificial Neural Networks* | NN | https://arxiv.org/abs/1911.02580 |
+| *A unified framework for 21cm tomography sample generation and parameter inference with Progressively Growing GANs* | GAN | https://arxiv.org/abs/2002.07940 |
+| *Beyond the power spectrum - I: recovering H II bubble size distribution from 21 cm power spectrum with artificial neural networks | NN | https://arxiv.org/abs/2002.08238 |
 
 &nbsp;
 ---
