@@ -108,7 +108,8 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Predicting dark matter halo formation in N-body simulations with deep regression networks* | V-Net | https://arxiv.org/abs/1912.04299 |
 | *Probabilistic cosmic web classification using fast-generated training data* | RF | https://arxiv.org/abs/1912.04412 |
 | *Super-resolution emulator of cosmological simulations using deep physical models* | WGAN | https://arxiv.org/abs/2001.05519 |
- 
+| *Baryon acoustic oscillations reconstruction using convolutional neural networks* | CNN | https://arxiv.org/abs/2002.10218 |
+
 <a name='identification'></a>
 #### Structure Identification
 | Title | ML technique(s) used | arxiv link |
