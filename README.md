@@ -276,7 +276,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Multi-wavelength properties of radio and machine-learning identified counterparts to submillimeter sources in S2COSMOS* | SVM, XGBoost | https://arxiv.org/abs/1910.03596 |
 | *Machine learning computation of distance modulus for local galaxies* | kNN, BDT, NN | https://arxiv.org/abs/1910.07317 | 
 | *MILCANN : A neural network assessed tSZ map for galaxy cluster detection* | NN | https://arxiv.org/abs/1702.00075 |
-
+| *Machine Learning meets the redshift evolution of the CMB Temperature* | GA | https://arxiv.org/abs/2002.12700 | 
 &nbsp;
 ---
 <a name='parameters'></a>
