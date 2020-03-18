@@ -49,10 +49,12 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 * KRR: [Kernel](https://www.ics.uci.edu/~welling/classnotes/papers_class/Kernel-Ridge.pdf) [Ridge](https://en.wikipedia.org/wiki/Tikhonov_regularization) [Regression](https://onlinecourses.science.psu.edu/stat857/node/155/)
 * NPE: Neural Physical Engine
 * MAF: [Masked Autoregressive Flows](https://arxiv.org/pdf/1705.07057.pdf)
+* MADE: [Masked Autoencoder for Distribution Estimation](https://arxiv.org/abs/1502.03509)
 * MINT:  [Mutual Information based Transductive Feature Selection](https://arxiv.org/abs/1310.1659)
 * MDN:  [Mixture](https://publications.aston.ac.uk/373/1/NCRG_94_004.pdf) [Density Network](https://cbonnett.github.io/MDN.html)
 * MLP: [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 * NN: [Neural](https://en.wikipedia.org/wiki/Artificial_neural_network) [Network](https://cs231n.github.io/neural-networks-1/)
+* NF: [Normalizing Flow](https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html)
 * OLR: [Ordinary Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 * RF: [Random Forests](https://en.wikipedia.org/wiki/Random_forest)
 * RIM: [Recurrent Interence Machines](https://arxiv.org/abs/1706.04008)
@@ -122,6 +124,8 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Multiwavelength cluster mass estimates and machine learning* | GB, RF | https://arxiv.org/abs/1905.09920 |
 | *Using X-Ray Morphological Parameters to Strengthen Galaxy Cluster Mass Estimates via Machine Learning* | RF | https://arxiv.org/abs/1908.02765 |
 | *Large-scale structures in the LCDM Universe: network analysis and machine learning* | XGBoost | https://arxiv.org/abs/1910.07868 |
+| *Dynamical mass inference of galaxy clusters with neural flows* | NF (MADE) | https://arxiv.org/abs/2003.05951 |
+| *Mass Estimation of Galaxy Clusters with Deep Learning I: Sunyaev-Zel'dovich Effect* | U-Net | https://arxiv.org/abs/2003.06135 |
 
 &nbsp;
 
@@ -286,7 +290,7 @@ Cosmological parameter estimation is the mechanism of inferring the contents and
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
 | *Bayesian emulator optimisation for cosmology: application to the Lyman-alpha forest* | GP | https://arxiv.org/abs/1812.04631 |
-| *Fast likelihood-free cosmology with neural density estimators and active learning* | MDN, MAF | https://arxiv.org/abs/1903.00007 |
+| *Fast likelihood-free cosmology with neural density estimators and active learning* | MDN, NF (MAF) | https://arxiv.org/abs/1903.00007 |
 | *Accelerated Bayesian inference using deep learning* | NN | https://arxiv.org/abs/1903.10860 |
 | *Cosmic Inference: Constraining Parameters With Observations and Highly Limited Number of Simulations* | GP | https://arxiv.org/abs/1905.07410 | 
 | *Euclid-era cosmology for everyone: Neural net assisted MCMC sampling for the joint 3x2 likelihood* | NN | https://arxiv.org/abs/1907.05881 |
