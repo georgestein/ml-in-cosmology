@@ -111,6 +111,9 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Probabilistic cosmic web classification using fast-generated training data* | RF | https://arxiv.org/abs/1912.04412 |
 | *Super-resolution emulator of cosmological simulations using deep physical models* | WGAN | https://arxiv.org/abs/2001.05519 |
 | *Baryon acoustic oscillations reconstruction using convolutional neural networks* | CNN | https://arxiv.org/abs/2002.10218 |
+| *Emulation of cosmological mass maps with conditional generative adversarial networks* | GAN | https://arxiv.org/abs/2004.08139 |
+| *Towards Universal Cosmological Emulators with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2004.10223 |
+| *Nonlinear 3D Cosmic Web Simulation with Heavy-Tailed Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2005.03050 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -146,7 +149,10 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Constraining the astrophysics and cosmology from 21cm tomography using deep learning with the SKA*| CNN | https://arxiv.org/abs/1907.07787 | 
 | *21cm Global Signal Extraction: Extracting the 21cm Global Signal using Artificial Neural Networks* | NN | https://arxiv.org/abs/1911.02580 |
 | *A unified framework for 21cm tomography sample generation and parameter inference with Progressively Growing GANs* | GAN | https://arxiv.org/abs/2002.07940 |
-| *Beyond the power spectrum - I: recovering H II bubble size distribution from 21 cm power spectrum with artificial neural networks | NN | https://arxiv.org/abs/2002.08238 |
+| *Beyond the power spectrum - I: recovering H II bubble size distribution from 21 cm power spectrum with artificial neural networks* | NN | https://arxiv.org/abs/2002.08238 |
+| *Foreground modelling via Gaussian process regression: an application to HERA data* | GP | https://arxiv.org/abs/2004.06041 |
+| *Predicting 21cm-line map from Lyman α emitter distribution with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2004.09206 |
+| *Constraining the Reionization History using Bayesian Normalizing Flows* | NF | https://arxiv.org/abs/2005.07694 | 
 
 &nbsp;
 ---
@@ -179,6 +185,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Cosmological constraints with deep learning from KiDS-450 weak lensing maps* | CNN | https://arxiv.org/abs/1906.03156 |
 | *Deep learning dark matter map reconstructions from DES SV weak lensing data* | U-Net | https://arxiv.org/abs/1908.00543 |
 | *Decoding Cosmological Information in Weak-Lensing Mass Maps with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/1911.12890 |
+| *Parameter Inference for Weak Lensing using Gaussian Processes and MOPED* | GP | https://arxiv.org/abs/2005.06551 |
 
 <a name='strong'></a>
 #### Strong Lensing
@@ -197,6 +204,9 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Circumventing Lens Modeling to Detect Dark Matter Substructure in Strong Lens Images with Convolutional Neural Networks* | CNN | https://arxiv.org/abs/1910.00015 |
 | *Differentiable Strong Lensing: Uniting Gravity and Neural Nets through Differentiable Probabilistic Programming* | VAE | https://arxiv.org/abs/1910.06157 |
 | *Identifying Strong Lenses with Unsupervised Machine Learning using Convolutional Autoencoder* | VAE | https://arxiv.org/abs/1911.04320 || *Modular Deep Learning Analysis of Galaxy-Scale Strong Lensing Images* | CNN | https://arxiv.org/abs/1911.03867 | 
+| *HOLISMOKES II. Identifying galaxy-scale strong gravitational lenses in Pan-STARRS using convolutional neural networks* | CNN | https://arxiv.org/abs/2004.13048 | 
+| *Dark Matter Subhalos, Strong Lensing and Machine Learning* | CNN | https://arxiv.org/abs/2005.05353 |
+
 &nbsp;
 
 ---
@@ -210,6 +220,11 @@ The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_mic
 | *Fast Wiener filtering of CMB maps with Neural Networks* | U-Net | https://arxiv.org/abs/1905.05846 |
 | *CMB-GAN: Fast Simulations of Cosmic Microwave background anisotropy maps using Deep Learning* | GAN | https://arxiv.org/abs/1908.04682 |
 | *CosmoVAE: Variational Autoencoder for CMB Image Inpainting* | VAE | https://arxiv.org/abs/2001.11651 |
+| *Inpainting Galactic Foreground Intensity and Polarization maps using Convolutional Neural Network* | GAN | https://arxiv.org/abs/2003.13691 |
+| *Inpainting via Generative Adversarial Networks for CMB data analysis* | GAN | https://arxiv.org/abs/2004.04177 |
+| *Full-sky Cosmic Microwave Background Foreground Cleaning Using Machine Learning* | BNN | https://arxiv.org/abs/2004.11507 |
+| *Foreground model recognition through Neural Networks for CMB B-mode observations* | NN | https://arxiv.org/abs/2003.02278 |
+
 &nbsp;
 
 ---
@@ -257,6 +272,10 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Gaussian Mixture Models for Blended Photometric Redshifts* | GMM | https://arxiv.org/abs/1907.10572 | 
 | *Photometric Redshift Calibration with Self Organising Maps* | SOM | https://arxiv.org/abs/1909.09632 |
 | *Reliable Photometric Membership (RPM) of Galaxies in Clusters. I. A Machine Learning Method and its Performance in the Local Universe* | SVM | https://arxiv.org/abs/2002.07263 | 
+| *PhotoWeb redshift: boosting photometric redshift accuracy with large spectroscopic surveys* | CNN | https://arxiv.org/abs/2003.10766 |
+| *The PAU Survey: Photometric redshifts using transfer learning from simulations* | MDN | https://arxiv.org/abs/2004.07979 |
+| *KiDS+VIKING-450: Improved cosmological parameter constraints from redshift calibration with self-organising maps* | SOM | https://arxiv.org/abs/2005.04207 |
+
 <a name='otherobservational'></a>
 #### Other Observational
 | Title | ML technique(s) used | arxiv link |
@@ -281,6 +300,8 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Machine learning computation of distance modulus for local galaxies* | kNN, BDT, NN | https://arxiv.org/abs/1910.07317 | 
 | *MILCANN : A neural network assessed tSZ map for galaxy cluster detection* | NN | https://arxiv.org/abs/1702.00075 |
 | *Machine Learning meets the redshift evolution of the CMB Temperature* | GA | https://arxiv.org/abs/2002.12700 | 
+| *Inverse Cosmography: testing the effectiveness of cosmographic polynomials using machine learning* | RNN+BNN | https://arxiv.org/abs/2005.02807 |
+
 &nbsp;
 ---
 <a name='parameters'></a>
