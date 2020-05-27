@@ -129,6 +129,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Large-scale structures in the LCDM Universe: network analysis and machine learning* | XGBoost | https://arxiv.org/abs/1910.07868 |
 | *Dynamical mass inference of galaxy clusters with neural flows* | NF (MADE) | https://arxiv.org/abs/2003.05951 |
 | *Mass Estimation of Galaxy Clusters with Deep Learning I: Sunyaev-Zel'dovich Effect* | U-Net | https://arxiv.org/abs/2003.06135 |
+| *Galaxy cluster mass estimation with deep learning and hydrodynamical simulations* | CNN | https://arxiv.org/abs/2005.11819 |
 
 &nbsp;
 
@@ -301,6 +302,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *MILCANN : A neural network assessed tSZ map for galaxy cluster detection* | NN | https://arxiv.org/abs/1702.00075 |
 | *Machine Learning meets the redshift evolution of the CMB Temperature* | GA | https://arxiv.org/abs/2002.12700 | 
 | *Inverse Cosmography: testing the effectiveness of cosmographic polynomials using machine learning* | RNN+BNN | https://arxiv.org/abs/2005.02807 |
+| *Deblending galaxies with Variational Autoencoders: a joint multi-band, multi-instrument approach* | VAE | https://arxiv.org/abs/2005.12039 |
 
 &nbsp;
 ---
@@ -367,3 +369,5 @@ Philippe Berger
 Dana Simard
 
 Michelle Ntampaka
+
+Farida Farsian
