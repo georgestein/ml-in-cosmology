@@ -114,6 +114,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Emulation of cosmological mass maps with conditional generative adversarial networks* | GAN | https://arxiv.org/abs/2004.08139 |
 | *Towards Universal Cosmological Emulators with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2004.10223 |
 | *Nonlinear 3D Cosmic Web Simulation with Heavy-Tailed Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2005.03050 |
+| *GalaxyNet: Connecting galaxies and dark matter haloes with deep neural networks and reinforcement learning in large volumes* | RF, NN | https://arxiv.org/abs/2005.12276 |
 
 <a name='identification'></a>
 #### Structure Identification
