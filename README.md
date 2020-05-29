@@ -131,7 +131,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Dynamical mass inference of galaxy clusters with neural flows* | NF (MADE) | https://arxiv.org/abs/2003.05951 |
 | *Mass Estimation of Galaxy Clusters with Deep Learning I: Sunyaev-Zel'dovich Effect* | U-Net | https://arxiv.org/abs/2003.06135 |
 | *Galaxy cluster mass estimation with deep learning and hydrodynamical simulations* | CNN | https://arxiv.org/abs/2005.11819 |
-
+| *Mass Estimation of Galaxy Clusters with Deep Learning II: CMB Cluster Lensing* | U-NET | https://arxiv.org/abs/2005.13985 |
 &nbsp;
 
 ---
