@@ -132,6 +132,8 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Mass Estimation of Galaxy Clusters with Deep Learning I: Sunyaev-Zel'dovich Effect* | U-Net | https://arxiv.org/abs/2003.06135 |
 | *Galaxy cluster mass estimation with deep learning and hydrodynamical simulations* | CNN | https://arxiv.org/abs/2005.11819 |
 | *Mass Estimation of Galaxy Clusters with Deep Learning II: CMB Cluster Lensing* | U-NET | https://arxiv.org/abs/2005.13985 |
+| *Multiwavelength classification of X-ray selected galaxy cluster candidates using convolutional neural networks* | CNN | https://arxiv.org/abs/2006.05998 |
+
 &nbsp;
 
 ---
@@ -155,6 +157,7 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Foreground modelling via Gaussian process regression: an application to HERA data* | GP | https://arxiv.org/abs/2004.06041 |
 | *Predicting 21cm-line map from Lyman α emitter distribution with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2004.09206 |
 | *Constraining the Reionization History using Bayesian Normalizing Flows* | NF | https://arxiv.org/abs/2005.07694 | 
+| *Deep-Learning Study of the 21cm Differential Brightness Temperature During the Epoch of Reionization* | CNN | https://arxiv.org/abs/2006.06236 |
 
 &nbsp;
 ---
