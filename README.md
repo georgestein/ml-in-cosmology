@@ -115,6 +115,9 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Towards Universal Cosmological Emulators with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2004.10223 |
 | *Nonlinear 3D Cosmic Web Simulation with Heavy-Tailed Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2005.03050 |
 | *GalaxyNet: Connecting galaxies and dark matter haloes with deep neural networks and reinforcement learning in large volumes* | RF, NN | https://arxiv.org/abs/2005.12276 |
+| *Discovering Symbolic Models from Deep Learning with Inductive Biases* | GNN | https://arxiv.org/abs/2006.11287 |
+| *Teaching neural networks to generate Fast Sunyaev Zel'dovich Maps* | V-Net | https://arxiv.org/abs/2007.07267 |
+| *HInet: Generating neutral hydrogen from dark matter with neural networks* | CNN | https://arxiv.org/abs/2007.10340 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -133,6 +136,9 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Galaxy cluster mass estimation with deep learning and hydrodynamical simulations* | CNN | https://arxiv.org/abs/2005.11819 |
 | *Mass Estimation of Galaxy Clusters with Deep Learning II: CMB Cluster Lensing* | U-NET | https://arxiv.org/abs/2005.13985 |
 | *Multiwavelength classification of X-ray selected galaxy cluster candidates using convolutional neural networks* | CNN | https://arxiv.org/abs/2006.05998 |
+| *Approximate Bayesian Uncertainties on Deep Learning Dynamical Mass Estimates of Galaxy Clusters* | BNN | https://arxiv.org/abs/2006.13231 |
+| *A deep learning view of the census of galaxy clusters in IllustrisTNG* | CNN | https://arxiv.org/abs/2007.05144 |
+| *Revealing the Local Cosmic Web by Deep Learning* | V-Net | https://arxiv.org/abs/2008.01738 |
 
 &nbsp;
 
@@ -148,6 +154,7 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Emulation of reionization simulations for Bayesian inference of astrophysics parameters using neural networks* | NN | https://arxiv.org/abs/1708.00011 | 
 | *Reionization Models Classifier using 21cm Map Deep Learning* | CNN | https://arxiv.org/abs/1801.06381 |
 | *Deep learning from 21-cm images of the Cosmic Dawn* | CNN | https://arxiv.org/abs/1805.02699 | 
+| *Identifying Reionization Sources from 21cm Maps using Convolutional Neural Networks* | CNN | https://arxiv.org/abs/1807.03317 |
 | *Evaluating machine learning techniques for predicting power spectra from reionization simulations* | SVM, MLP, GPR | https://arxiv.org/abs/1811.09141 |
 | *Improved supervised learning methods for EoR parameters reconstruction* | CNN | https://arxiv.org/abs/1904.04106 |
 | *Constraining the astrophysics and cosmology from 21cm tomography using deep learning with the SKA*| CNN | https://arxiv.org/abs/1907.07787 | 
@@ -158,6 +165,7 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Predicting 21cm-line map from Lyman α emitter distribution with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2004.09206 |
 | *Constraining the Reionization History using Bayesian Normalizing Flows* | NF | https://arxiv.org/abs/2005.07694 | 
 | *Deep-Learning Study of the 21cm Differential Brightness Temperature During the Epoch of Reionization* | CNN | https://arxiv.org/abs/2006.06236 |
+| *Removing Astrophysics in 21 cm maps with Neural Networks* | CNN | https://arxiv.org/abs/2006.14305 |
 
 &nbsp;
 ---
@@ -192,6 +200,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Decoding Cosmological Information in Weak-Lensing Mass Maps with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/1911.12890 |
 | *Parameter Inference for Weak Lensing using Gaussian Processes and MOPED* | GP | https://arxiv.org/abs/2005.06551 |
 | *Shear measurement bias II: a fast machine learning calibration method* | NN | https://arxiv.org/abs/2006.07011 |
+| *Interpreting deep learning models for weak lensing* | CNN | https://arxiv.org/abs/2007.06529 |
 
 <a name='strong'></a>
 #### Strong Lensing
@@ -212,7 +221,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Identifying Strong Lenses with Unsupervised Machine Learning using Convolutional Autoencoder* | VAE | https://arxiv.org/abs/1911.04320 || *Modular Deep Learning Analysis of Galaxy-Scale Strong Lensing Images* | CNN | https://arxiv.org/abs/1911.03867 | 
 | *HOLISMOKES II. Identifying galaxy-scale strong gravitational lenses in Pan-STARRS using convolutional neural networks* | CNN | https://arxiv.org/abs/2004.13048 | 
 | *Dark Matter Subhalos, Strong Lensing and Machine Learning* | CNN | https://arxiv.org/abs/2005.05353 |
-
+| *Deep Learning for Strong Lensing Search: Tests of the Convolutional Neural Networks and New Candidates from KiDS DR3* | CNN | https://arxiv.org/abs/2007.00188 |
 &nbsp;
 
 ---
@@ -302,6 +311,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Deep-CEE I: Fishing for Galaxy Clusters with Deep Neural Nets* | RCNN | https://arxiv.org/abs/1906.08784 |
 | *Improving Galaxy Clustering Measurements with Deep Learning: analysis of the DECaLS DR7 data* | NN | https://arxiv.org/abs/1907.11355 |
 | *What can Machine Learning tell us about the background expansion of the Universe?* | GA | https://arxiv.org/abs/1910.01529 |
+| *A deep learning approach to cosmological dark energy models* | BNN+RNN | https://arxiv.org/abs/1910.02788 |
 | *Reconstructing Functions and Estimating Parameters with Artificial Neural Network: a test with Hubble parameter and SNe Ia* | NN, RNN, LSTM, GRU | https://arxiv.org/abs/1910.03636 |
 | *Multi-wavelength properties of radio and machine-learning identified counterparts to submillimeter sources in S2COSMOS* | SVM, XGBoost | https://arxiv.org/abs/1910.03596 |
 | *Machine learning computation of distance modulus for local galaxies* | kNN, BDT, NN | https://arxiv.org/abs/1910.07317 | 
@@ -310,6 +320,8 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Inverse Cosmography: testing the effectiveness of cosmographic polynomials using machine learning* | RNN+BNN | https://arxiv.org/abs/2005.02807 |
 | *Deblending galaxies with Variational Autoencoders: a joint multi-band, multi-instrument approach* | VAE | https://arxiv.org/abs/2005.12039 |
 | *Fully probabilistic quasar continua predictions near Lyman-α with conditional neural spline flows* |NF | https://arxiv.org/abs/2006.00615 | 
+| *Artificial intelligence and quasar absorption system modelling; application to fundamental constants at high redshift* | AI | https://arxiv.org/abs/2008.02583 |
+| *Deep learning the astrometric signature of dark matter substructure* | CNN | https://arxiv.org/abs/1908.04210 |
 
 &nbsp;
 ---
@@ -325,7 +337,8 @@ Cosmological parameter estimation is the mechanism of inferring the contents and
 | *Cosmic Inference: Constraining Parameters With Observations and Highly Limited Number of Simulations* | GP | https://arxiv.org/abs/1905.07410 | 
 | *Euclid-era cosmology for everyone: Neural net assisted MCMC sampling for the joint 3x2 likelihood* | NN | https://arxiv.org/abs/1907.05881 |
 | *Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks* | BNNs | https://arxiv.org/abs/1911.08508 |
-
+| *Flow-Based Likelihoods for Non-Gaussian Inference* | NF | https://arxiv.org/abs/2007.05535 | 
+| *Nearest Neighbor distributions: new statistical measures for cosmological clustering* | kNN-CDF | https://arxiv.org/abs/2007.13342 |
 &nbsp;
 
 ---
@@ -378,3 +391,5 @@ Dana Simard
 Michelle Ntampaka
 
 Farida Farsian
+
+Celia Escamilla-Rivera
