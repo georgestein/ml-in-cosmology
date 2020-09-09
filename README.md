@@ -139,7 +139,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Approximate Bayesian Uncertainties on Deep Learning Dynamical Mass Estimates of Galaxy Clusters* | BNN | https://arxiv.org/abs/2006.13231 |
 | *A deep learning view of the census of galaxy clusters in IllustrisTNG* | CNN | https://arxiv.org/abs/2007.05144 |
 | *Revealing the Local Cosmic Web by Deep Learning* | V-Net | https://arxiv.org/abs/2008.01738 |
-
+| *Simulation-based inference of dynamical galaxy cluster masses with 3D convolutional neural networks* | CNN | https://arxiv.org/abs/2009.03340 |
 &nbsp;
 
 ---
