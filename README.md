@@ -1,7 +1,10 @@
 ## ml-in-cosmology
-This github attempts to maintain a comprehensive list of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. Each entry contains the paper title, a simple summary of the machine learning methods used in the work, and the arxiv link. If I have missed any cosmology papers that you believe should be included please email me at gstein@cita.utoronto.ca or issue a pull request. 
+This github attempts to maintain a comprehensive list of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. Each entry contains the paper title, a simple summary of the machine learning methods used in the work, and the arxiv link. If I have missed any cosmology papers that you believe should be included please email me at gstein@berkeley.edu or issue a pull request. 
 
-I am currently a postdoctoral researcher at the Berkeley Center for Cosmological Physics, broadly working on problems in computational cosmology, but with a great interest in machine learning methods, and just made this for fun and to help anyone with similar interests. More info about me can be found at https://www.cita.utoronto.ca/~gstein/, and cheers to whoever can find which two of the papers below have me as an author :beers: 
+Feel free to cite in any works
+[![DOI](https://zenodo.org/badge/160429652.svg)](https://zenodo.org/badge/latestdoi/160429652)
+
+I am currently a postdoctoral researcher at the Berkeley Center for Cosmological Physics, broadly working on problems in computational cosmology, but with a great interest in machine learning methods, and just made this for fun and to help anyone with similar interests. More info about me can be found at https://www.cita.utoronto.ca/~gstein/, and cheers to whoever can find which of the papers below have me as an author :beers: 
 
 ---
 ## Table of Contents
