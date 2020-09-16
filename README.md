@@ -121,6 +121,8 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Discovering Symbolic Models from Deep Learning with Inductive Biases* | GNN | https://arxiv.org/abs/2006.11287 |
 | *Teaching neural networks to generate Fast Sunyaev Zel'dovich Maps* | V-Net | https://arxiv.org/abs/2007.07267 |
 | *HInet: Generating neutral hydrogen from dark matter with neural networks* | CNN | https://arxiv.org/abs/2007.10340 |
+| *Machine Learning the Fates of Dark Matter Subhalos: A Fuzzy Crystal Ball* | RF, BDT | https://arxiv.org/abs/2008.05001 |  
+
 
 <a name='identification'></a>
 #### Structure Identification
@@ -225,6 +227,9 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *HOLISMOKES II. Identifying galaxy-scale strong gravitational lenses in Pan-STARRS using convolutional neural networks* | CNN | https://arxiv.org/abs/2004.13048 | 
 | *Dark Matter Subhalos, Strong Lensing and Machine Learning* | CNN | https://arxiv.org/abs/2005.05353 |
 | *Deep Learning for Strong Lensing Search: Tests of the Convolutional Neural Networks and New Candidates from KiDS DR3* | CNN | https://arxiv.org/abs/2007.00188 |
+| *Extracting the Subhalo Mass Function from Strong Lens Images with Image Segmentation* | U-Net | https://arxiv.org/abs/2009.06639 | 
+| *Detecting Subhalos in Strong Gravitational Lens Images with Image Segmentation* | U-Net | https://arxiv.org/abs/2009.06663 |
+
 &nbsp;
 
 ---
