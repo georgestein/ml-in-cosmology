@@ -330,6 +330,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Fully probabilistic quasar continua predictions near Lyman-α with conditional neural spline flows* |NF | https://arxiv.org/abs/2006.00615 | 
 | *Artificial intelligence and quasar absorption system modelling; application to fundamental constants at high redshift* | AI | https://arxiv.org/abs/2008.02583 |
 | *Deep learning the astrometric signature of dark matter substructure* | CNN | https://arxiv.org/abs/1908.04210 |
+| *Deep Learning for Line Intensity Mapping Observations: Information Extraction from Noisy Maps* | GAN | https://arxiv.org/abs/2010.00809 |
 
 &nbsp;
 ---
@@ -347,6 +348,8 @@ Cosmological parameter estimation is the mechanism of inferring the contents and
 | *Parameters Estimation for the Cosmic Microwave Background with Bayesian Neural Networks* | BNNs | https://arxiv.org/abs/1911.08508 |
 | *Flow-Based Likelihoods for Non-Gaussian Inference* | NF | https://arxiv.org/abs/2007.05535 | 
 | *Nearest Neighbor distributions: new statistical measures for cosmological clustering* | kNN-CDF | https://arxiv.org/abs/2007.13342 |
+| *Likelihood-free inference with neural compression of DES SV weak lensing map statistics* | NF | https://arxiv.org/abs/2009.08459 |
+
 &nbsp;
 
 ---
@@ -371,7 +374,7 @@ Contained here are some cosmological machine learning datasets.
 | :--- | :---: | :---: |
 | *Aemulus Project* | https://arxiv.org/abs/1804.05865 | https://aemulusproject.github.io/ |
 | *The Quijote simulations* | https://arxiv.org/abs/1909.05273 | https://github.com/franciscovillaescusa/Quijote-simulations | 
-
+| *The CAMELS project: Cosmology and Astrophysics with MachinE Learning Simulations* | https://arxiv.org/abs/2010.00619 | https://www.camel-simulations.org/ | 
 &nbsp;
 
 ---
