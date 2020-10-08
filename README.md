@@ -122,7 +122,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Teaching neural networks to generate Fast Sunyaev Zel'dovich Maps* | V-Net | https://arxiv.org/abs/2007.07267 |
 | *HInet: Generating neutral hydrogen from dark matter with neural networks* | CNN | https://arxiv.org/abs/2007.10340 |
 | *Machine Learning the Fates of Dark Matter Subhalos: A Fuzzy Crystal Ball* | RF, BDT | https://arxiv.org/abs/2008.05001 |  
-
+| *Learning effective physical laws for generating cosmological hydrodynamics with Lagrangian Deep Learning* | LDL | https://arxiv.org/abs/2010.02926 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -294,7 +294,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Estimating redshift distributions using Hierarchical Logistic Gaussian processes* | GPR | https://arxiv.org/abs/1904.09988 |
 | *Gaussian Mixture Models for Blended Photometric Redshifts* | GMM | https://arxiv.org/abs/1907.10572 | 
 | *Photometric Redshift Calibration with Self Organising Maps* | SOM | https://arxiv.org/abs/1909.09632 |
-| *Reliable Photometric Membership (RPM) of Galaxies in Clusters. I. A Machine Learning Method and its Performance in the Local Universe* | SVM | https://arxiv.org/abs/2002.07263 | 
+| *Reliable Photometric Membership (RPM) of Galaxies in Clusters. I. A Machine Learning Method and its Performance in the Local Universe* | SVM | https://arxiv.org/abs/2002.07263 |
 | *PhotoWeb redshift: boosting photometric redshift accuracy with large spectroscopic surveys* | CNN | https://arxiv.org/abs/2003.10766 |
 | *The PAU Survey: Photometric redshifts using transfer learning from simulations* | MDN | https://arxiv.org/abs/2004.07979 |
 | *KiDS+VIKING-450: Improved cosmological parameter constraints from redshift calibration with self-organising maps* | SOM | https://arxiv.org/abs/2005.04207 |
@@ -329,7 +329,8 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Deblending galaxies with Variational Autoencoders: a joint multi-band, multi-instrument approach* | VAE | https://arxiv.org/abs/2005.12039 |
 | *Fully probabilistic quasar continua predictions near Lyman-α with conditional neural spline flows* |NF | https://arxiv.org/abs/2006.00615 | 
 | *Artificial intelligence and quasar absorption system modelling; application to fundamental constants at high redshift* | AI | https://arxiv.org/abs/2008.02583 |
-| *Deep learning the astrometric signature of dark matter substructure* | CNN | https://arxiv.org/abs/1908.04210 |
+| *Deep learning the astrometric signature of dark matter substructure* | CNN | https://arxiv.org/abs/2008.11577 |
+| *Beyond the Hubble Sequence -- Exploring Galaxy Morphology with Unsupervised Machine Learning* | VAE | https://arxiv.org/abs/2009.11932 |
 | *Deep Learning for Line Intensity Mapping Observations: Information Extraction from Noisy Maps* | GAN | https://arxiv.org/abs/2010.00809 |
 
 &nbsp;
