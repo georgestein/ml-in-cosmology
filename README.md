@@ -332,6 +332,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Deep learning the astrometric signature of dark matter substructure* | CNN | https://arxiv.org/abs/2008.11577 |
 | *Beyond the Hubble Sequence -- Exploring Galaxy Morphology with Unsupervised Machine Learning* | VAE | https://arxiv.org/abs/2009.11932 |
 | *Deep Learning for Line Intensity Mapping Observations: Information Extraction from Noisy Maps* | GAN | https://arxiv.org/abs/2010.00809 |
+| *Peculiar Velocity Estimation from Kinetic SZ Effect using Deep Neural Networks* | CNN | https://arxiv.org/abs/2010.03762 |
 
 &nbsp;
 ---
