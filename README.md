@@ -1,4 +1,4 @@
-## ml-in-cosmology
+## ml-in-cosmologyAA
 This github attempts to maintain a comprehensive list of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. Each entry contains the paper title, a simple summary of the machine learning methods used in the work, and the arxiv link. If I have missed any cosmology papers that you believe should be included please email me at gstein@berkeley.edu or issue a pull request. 
 
 Feel free to cite in any works
@@ -123,6 +123,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *HInet: Generating neutral hydrogen from dark matter with neural networks* | CNN | https://arxiv.org/abs/2007.10340 |
 | *Machine Learning the Fates of Dark Matter Subhalos: A Fuzzy Crystal Ball* | RF, BDT | https://arxiv.org/abs/2008.05001 |  
 | *Learning effective physical laws for generating cosmological hydrodynamics with Lagrangian Deep Learning* | LDL | https://arxiv.org/abs/2010.02926 |
+| *AI-assisted super-resolution cosmological simulations* | GAN | https://arxiv.org/abs/2010.06608 | 
 
 <a name='identification'></a>
 #### Structure Identification
@@ -206,6 +207,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Parameter Inference for Weak Lensing using Gaussian Processes and MOPED* | GP | https://arxiv.org/abs/2005.06551 |
 | *Shear measurement bias II: a fast machine learning calibration method* | NN | https://arxiv.org/abs/2006.07011 |
 | *Interpreting deep learning models for weak lensing* | CNN | https://arxiv.org/abs/2007.06529 |
+| *Shear measurement bias II: a fast machine learning calibration method* | MLP | https://arxiv.org/abs/2006.07011 | 
 
 <a name='strong'></a>
 #### Strong Lensing
