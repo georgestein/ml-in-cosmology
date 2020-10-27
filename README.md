@@ -1,4 +1,4 @@
-## ml-in-cosmologyAA
+## ml-in-cosmology
 This github attempts to maintain a comprehensive list of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. Each entry contains the paper title, a simple summary of the machine learning methods used in the work, and the arxiv link. If I have missed any cosmology papers that you believe should be included please email me at gstein@berkeley.edu or issue a pull request. 
 
 Feel free to cite in any works
@@ -231,6 +231,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Deep Learning for Strong Lensing Search: Tests of the Convolutional Neural Networks and New Candidates from KiDS DR3* | CNN | https://arxiv.org/abs/2007.00188 |
 | *Extracting the Subhalo Mass Function from Strong Lens Images with Image Segmentation* | U-Net | https://arxiv.org/abs/2009.06639 | 
 | *Detecting Subhalos in Strong Gravitational Lens Images with Image Segmentation* | U-Net | https://arxiv.org/abs/2009.06663 |
+| *Hunting for Dark Matter Subhalos in Strong Gravitational Lensing with Neural Networks* | CNN | https://arxiv.org/abs/2010.12960 |
 
 &nbsp;
 
@@ -366,7 +367,7 @@ Contained here are some machine learning tools that are specifically designed fo
 | *CosmoFlow: Using Deep Learning to Learn the Universe at Scale* | CNN | https://arxiv.org/abs/1808.04728 |
 | *Convolutional Neural Networks on the HEALPix sphere: a pixel-based algorithm and its application to CMB data analysis* | CNN | https://arxiv.org/abs/1902.04083 | 
 | *CosmicNet I: Physics-driven implementation of neural networks within Boltzmann-Einstein solvers* | NN | https://arxiv.org/abs/1907.05764 |
-
+| *FlowPM: Distributed TensorFlow Implementation of the FastPM Cosmological N-body Solver* | TF | https://arxiv.org/abs/2010.11847 |
 &nbsp;
 
 ---
