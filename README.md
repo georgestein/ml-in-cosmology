@@ -124,6 +124,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Machine Learning the Fates of Dark Matter Subhalos: A Fuzzy Crystal Ball* | RF, BDT | https://arxiv.org/abs/2008.05001 |  
 | *Learning effective physical laws for generating cosmological hydrodynamics with Lagrangian Deep Learning* | LDL | https://arxiv.org/abs/2010.02926 |
 | *AI-assisted super-resolution cosmological simulations* | GAN | https://arxiv.org/abs/2010.06608 | 
+| *Encoding large scale cosmological structure with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2011.05244 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -172,7 +173,7 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Constraining the Reionization History using Bayesian Normalizing Flows* | NF | https://arxiv.org/abs/2005.07694 | 
 | *Deep-Learning Study of the 21cm Differential Brightness Temperature During the Epoch of Reionization* | CNN | https://arxiv.org/abs/2006.06236 |
 | *Removing Astrophysics in 21 cm maps with Neural Networks* | CNN | https://arxiv.org/abs/2006.14305 |
-
+| *deep21: a Deep Learning Method for 21cm Foreground Removal* | U-Net | https://arxiv.org/abs/2010.15843 | 
 &nbsp;
 ---
 <a name='lensing'></a>
@@ -250,6 +251,8 @@ The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_mic
 | *Inpainting via Generative Adversarial Networks for CMB data analysis* | GAN | https://arxiv.org/abs/2004.04177 |
 | *Full-sky Cosmic Microwave Background Foreground Cleaning Using Machine Learning* | BNN | https://arxiv.org/abs/2004.11507 |
 | *Foreground model recognition through Neural Networks for CMB B-mode observations* | NN | https://arxiv.org/abs/2003.02278 |
+| *Inpainting CMB maps using Partial Convolutional Neural Networks* | U-Net | https://arxiv.org/abs/2011.01433 |
+| *ForSE: a GAN based algorithm for extending CMB foreground models to sub-degree angular scales* | GAN | https://arxiv.org/abs/2011.02221 |
 
 &nbsp;
 
@@ -331,13 +334,13 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Machine Learning meets the redshift evolution of the CMB Temperature* | GA | https://arxiv.org/abs/2002.12700 | 
 | *Inverse Cosmography: testing the effectiveness of cosmographic polynomials using machine learning* | RNN+BNN | https://arxiv.org/abs/2005.02807 |
 | *Deblending galaxies with Variational Autoencoders: a joint multi-band, multi-instrument approach* | VAE | https://arxiv.org/abs/2005.12039 |
-| *Fully probabilistic quasar continua predictions near Lyman-α with conditional neural spline flows* |NF | https://arxiv.org/abs/2006.00615 | 
+| *Fully probabilistic quasar continua predictions near Lyman-α with conditional neural spline flows* | NF | https://arxiv.org/abs/2006.00615 | 
 | *Artificial intelligence and quasar absorption system modelling; application to fundamental constants at high redshift* | AI | https://arxiv.org/abs/2008.02583 |
 | *Deep learning the astrometric signature of dark matter substructure* | CNN | https://arxiv.org/abs/2008.11577 |
 | *Beyond the Hubble Sequence -- Exploring Galaxy Morphology with Unsupervised Machine Learning* | VAE | https://arxiv.org/abs/2009.11932 |
 | *Deep Learning for Line Intensity Mapping Observations: Information Extraction from Noisy Maps* | GAN | https://arxiv.org/abs/2010.00809 |
 | *Peculiar Velocity Estimation from Kinetic SZ Effect using Deep Neural Networks* | CNN | https://arxiv.org/abs/2010.03762 |
-
+| *Machine learning forecasts of the cosmic distance duality relation with strongly lensed gravitational wave events* | GP, GA | https://arxiv.org/abs/2011.02718 |
 &nbsp;
 ---
 <a name='parameters'></a>
