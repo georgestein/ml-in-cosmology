@@ -341,6 +341,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Deep Learning for Line Intensity Mapping Observations: Information Extraction from Noisy Maps* | GAN | https://arxiv.org/abs/2010.00809 |
 | *Peculiar Velocity Estimation from Kinetic SZ Effect using Deep Neural Networks* | CNN | https://arxiv.org/abs/2010.03762 |
 | *Machine learning forecasts of the cosmic distance duality relation with strongly lensed gravitational wave events* | GP, GA | https://arxiv.org/abs/2011.02718 |
+
 &nbsp;
 ---
 <a name='parameters'></a>
@@ -358,6 +359,8 @@ Cosmological parameter estimation is the mechanism of inferring the contents and
 | *Flow-Based Likelihoods for Non-Gaussian Inference* | NF | https://arxiv.org/abs/2007.05535 | 
 | *Nearest Neighbor distributions: new statistical measures for cosmological clustering* | kNN-CDF | https://arxiv.org/abs/2007.13342 |
 | *Likelihood-free inference with neural compression of DES SV weak lensing map statistics* | NF | https://arxiv.org/abs/2009.08459 |
+| *Neural networks as optimal estimators to marginalize over baryonic effects* | NN | https://arxiv.org/abs/2011.05992 |
+| *Solving high-dimensional parameter inference: marginal posterior densities & Moment Networks* | NF | https://arxiv.org/abs/2011.05991 |
 
 &nbsp;
 
