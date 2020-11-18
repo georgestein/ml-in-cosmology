@@ -222,12 +222,14 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Testing convolutional neural networks for finding strong gravitational lenses in KiDS* | CNN | https://arxiv.org/abs/1807.04764 |
 | *Analyzing interferometric observations of strong gravitational lenses with recurrent and convolutional neural networks* | RNN, CNN | https://arxiv.org/abs/1808.00011 |
 | *Data-Driven Reconstruction of Gravitationally Lensed Galaxies using Recurrent Inference Machines* | RIM, CNN | https://arxiv.org/abs/1901.01359 |
+| *Finding Strong Gravitational Lenses in the DESI DECam Legacy Survey* | CNN | https://arxiv.org/abs/1906.00970 |
 | *Mining for Dark Matter Substructure: Inferring subhalo population properties from strong lenses with machine learning* | NN | https://arxiv.org/abs/1909.02005 |
 | *Deep Learning the Morphology of Dark Matter Substructure* | CNN | https://arxiv.org/abs/1909.07346 |
 | *Circumventing Lens Modeling to Detect Dark Matter Substructure in Strong Lens Images with Convolutional Neural Networks* | CNN | https://arxiv.org/abs/1910.00015 |
 | *Differentiable Strong Lensing: Uniting Gravity and Neural Nets through Differentiable Probabilistic Programming* | VAE | https://arxiv.org/abs/1910.06157 |
 | *Identifying Strong Lenses with Unsupervised Machine Learning using Convolutional Autoencoder* | VAE | https://arxiv.org/abs/1911.04320 || *Modular Deep Learning Analysis of Galaxy-Scale Strong Lensing Images* | CNN | https://arxiv.org/abs/1911.03867 | 
 | *HOLISMOKES II. Identifying galaxy-scale strong gravitational lenses in Pan-STARRS using convolutional neural networks* | CNN | https://arxiv.org/abs/2004.13048 | 
+| *Discovering New Strong Gravitational Lenses in the DESI Legacy Imaging Surveys* | CNN | https://arxiv.org/abs/2005.04730 |
 | *Dark Matter Subhalos, Strong Lensing and Machine Learning* | CNN | https://arxiv.org/abs/2005.05353 |
 | *Deep Learning for Strong Lensing Search: Tests of the Convolutional Neural Networks and New Candidates from KiDS DR3* | CNN | https://arxiv.org/abs/2007.00188 |
 | *Extracting the Subhalo Mass Function from Strong Lens Images with Image Segmentation* | U-Net | https://arxiv.org/abs/2009.06639 | 
