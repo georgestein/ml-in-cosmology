@@ -209,6 +209,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Shear measurement bias II: a fast machine learning calibration method* | NN | https://arxiv.org/abs/2006.07011 |
 | *Interpreting deep learning models for weak lensing* | CNN | https://arxiv.org/abs/2007.06529 |
 | *Shear measurement bias II: a fast machine learning calibration method* | MLP | https://arxiv.org/abs/2006.07011 | 
+| *Higher order statistics of shear field: a machine learning approach* | kNN, SVM, GP, RF, etc.. | https://arxiv.org/abs/2011.10438 |
 
 <a name='strong'></a>
 #### Strong Lensing
