@@ -125,7 +125,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Learning effective physical laws for generating cosmological hydrodynamics with Lagrangian Deep Learning* | LDL | https://arxiv.org/abs/2010.02926 |
 | *AI-assisted super-resolution cosmological simulations* | GAN | https://arxiv.org/abs/2010.06608 | 
 | *Encoding large scale cosmological structure with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2011.05244 |
-
+| *Deep learning insights into cosmological structure formation* | CNN |  https://arxiv.org/abs/2011.10577 |
 <a name='identification'></a>
 #### Structure Identification
 | Title | ML technique(s) used | arxiv link |
