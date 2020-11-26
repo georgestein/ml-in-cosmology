@@ -309,6 +309,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *KiDS+VIKING-450: Improved cosmological parameter constraints from redshift calibration with self-organising maps* | SOM | https://arxiv.org/abs/2005.04207 |
 | *Determining the systemic redshift of Lyman-α emitters with neural networks and improving the measured large-scale clustering* | NN | https://arxiv.org/abs/2005.12931 |
 | *Photometric selection and redshifts for quasars in the Kilo-Degree Survey Data Release 4* | RF, XGBoost, NN | https://arxiv.org/abs/2010.13857 |  
+| *Photometric Redshift Estimation with a Convolutional Neural Network: NetZ* | CNN | https://arxiv.org/abs/2011.12312 |
 
 <a name='otherobservational'></a>
 #### Other Observational
