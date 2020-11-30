@@ -126,6 +126,8 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *AI-assisted super-resolution cosmological simulations* | GAN | https://arxiv.org/abs/2010.06608 | 
 | *Encoding large scale cosmological structure with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2011.05244 |
 | *Deep learning insights into cosmological structure formation* | CNN |  https://arxiv.org/abs/2011.10577 |
+| *SHAPing the Gas: Understanding Gas Shapes in Dark Matter Haloes with Interpretable Machine Learning* | XGBoost | https://arxiv.org/abs/2011.12987 |
+
 <a name='identification'></a>
 #### Structure Identification
 | Title | ML technique(s) used | arxiv link |
@@ -236,6 +238,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Extracting the Subhalo Mass Function from Strong Lens Images with Image Segmentation* | U-Net | https://arxiv.org/abs/2009.06639 | 
 | *Detecting Subhalos in Strong Gravitational Lens Images with Image Segmentation* | U-Net | https://arxiv.org/abs/2009.06663 |
 | *Hunting for Dark Matter Subhalos in Strong Gravitational Lensing with Neural Networks* | CNN | https://arxiv.org/abs/2010.12960 |
+| *Targeted Likelihood-Free Inference of Dark Matter Substructure in Strongly-Lensed Galaxies* | GP, ... | https://arxiv.org/abs/2010.07032 | 
 
 &nbsp;
 
@@ -345,6 +348,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Deep Learning for Line Intensity Mapping Observations: Information Extraction from Noisy Maps* | GAN | https://arxiv.org/abs/2010.00809 |
 | *Peculiar Velocity Estimation from Kinetic SZ Effect using Deep Neural Networks* | CNN | https://arxiv.org/abs/2010.03762 |
 | *Machine learning forecasts of the cosmic distance duality relation with strongly lensed gravitational wave events* | GP, GA | https://arxiv.org/abs/2011.02718 |
+| *Model independent calibrations of gamma ray bursts using machine learning* | RF, NN | https://arxiv.org/abs/2011.13590 |
 
 &nbsp;
 ---
