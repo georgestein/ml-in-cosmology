@@ -127,6 +127,8 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Encoding large scale cosmological structure with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2011.05244 |
 | *Deep learning insights into cosmological structure formation* | CNN |  https://arxiv.org/abs/2011.10577 |
 | *SHAPing the Gas: Understanding Gas Shapes in Dark Matter Haloes with Interpretable Machine Learning* | XGBoost | https://arxiv.org/abs/2011.12987 |
+| *dm2gal: Mapping Dark Matter to Galaxies with Neural Networks* | CNN | https://arxiv.org/abs/2012.00186 |
+| *Fast and Accurate Non-Linear Predictions of Universes with Deep Learning* | V-Net | https://arxiv.org/abs/2012.00240 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -176,6 +178,9 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Deep-Learning Study of the 21cm Differential Brightness Temperature During the Epoch of Reionization* | CNN | https://arxiv.org/abs/2006.06236 |
 | *Removing Astrophysics in 21 cm maps with Neural Networks* | CNN | https://arxiv.org/abs/2006.14305 |
 | *deep21: a Deep Learning Method for 21cm Foreground Removal* | U-Net | https://arxiv.org/abs/2010.15843 | 
+| *Using Artificial Neural Networks to extract the 21-cm Global Signal from the EDGES data* | NN | https://arxiv.org/abs/2012.00028 |
+| *Modeling assembly bias with machine learning and symbolic regression* | RF, SR | https://arxiv.org/abs/2012.00111 |
+
 &nbsp;
 ---
 <a name='lensing'></a>
@@ -239,6 +244,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Detecting Subhalos in Strong Gravitational Lens Images with Image Segmentation* | U-Net | https://arxiv.org/abs/2009.06663 |
 | *Hunting for Dark Matter Subhalos in Strong Gravitational Lensing with Neural Networks* | CNN | https://arxiv.org/abs/2010.12960 |
 | *Targeted Likelihood-Free Inference of Dark Matter Substructure in Strongly-Lensed Galaxies* | GP, ... | https://arxiv.org/abs/2010.07032 | 
+| *Large-Scale Gravitational Lens Modeling with Bayesian Neural Networks for Accurate and Precise Inference of the Hubble Constant* | BNN | https://arxiv.org/abs/2012.00042 |
 
 &nbsp;
 
