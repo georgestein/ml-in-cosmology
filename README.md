@@ -386,6 +386,7 @@ Contained here are some machine learning tools that are specifically designed fo
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
 | *CosmoFlow: Using Deep Learning to Learn the Universe at Scale* | CNN | https://arxiv.org/abs/1808.04728 |
+| *DeepSphere: Efficient spherical Convolutional Neural Network with HEALPix sampling for cosmological applications* | CNN | https://arxiv.org/abs/1810.12186 |
 | *Convolutional Neural Networks on the HEALPix sphere: a pixel-based algorithm and its application to CMB data analysis* | CNN | https://arxiv.org/abs/1902.04083 | 
 | *CosmicNet I: Physics-driven implementation of neural networks within Boltzmann-Einstein solvers* | NN | https://arxiv.org/abs/1907.05764 |
 | *FlowPM: Distributed TensorFlow Implementation of the FastPM Cosmological N-body Solver* | TF | https://arxiv.org/abs/2010.11847 |
@@ -430,3 +431,5 @@ Michelle Ntampaka
 Farida Farsian
 
 Celia Escamilla-Rivera
+
+Michaël Defferrard
