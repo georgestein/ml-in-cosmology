@@ -255,6 +255,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Discovering New Strong Gravitational Lenses in the DESI Legacy Imaging Surveys* | CNN | https://arxiv.org/abs/2005.04730 |
 | *Dark Matter Subhalos, Strong Lensing and Machine Learning* | CNN | https://arxiv.org/abs/2005.05353 |
 | *Deep Learning for Strong Lensing Search: Tests of the Convolutional Neural Networks and New Candidates from KiDS DR3* | CNN | https://arxiv.org/abs/2007.00188 |
+| *Decoding Dark Matter Substructure without Supervision* | AE, VAE, AAE | https://arxiv.org/abs/2008.12731 |
 | *Extracting the Subhalo Mass Function from Strong Lens Images with Image Segmentation* | U-Net | https://arxiv.org/abs/2009.06639 | 
 | *Detecting Subhalos in Strong Gravitational Lens Images with Image Segmentation* | U-Net | https://arxiv.org/abs/2009.06663 |
 | *Hunting for Dark Matter Subhalos in Strong Gravitational Lensing with Neural Networks* | CNN | https://arxiv.org/abs/2010.12960 |
@@ -464,3 +465,5 @@ Celia Escamilla-Rivera
 Michaël Defferrard
 
 Farida Farsian
+
+Pranath Reddy
