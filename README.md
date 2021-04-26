@@ -160,6 +160,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Simulation-based inference of dynamical galaxy cluster masses with 3D convolutional neural networks* | CNN | https://arxiv.org/abs/2009.03340 |
 | *Weak-lensing Mass Reconstruction of Galaxy Clusters with Convolutional Neural Network* | CNN | https://arxiv.org/abs/2102.05403 |
 | *DeepSZ: Identification of Sunyaev-Zel'dovich Galaxy Clusters using Deep Learning* | CNN | https://arxiv.org/abs/2102.13123 |
+| *DeepMerge II: Building Robust Deep Learning Algorithms for Merging Galaxy Identification Across Domains* | CNN | https://arxiv.org/abs/2103.01373 |
 
 &nbsp;
 
@@ -343,6 +344,8 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Spectroscopic and Photometric Redshift Estimation by Neural Networks For the China Space Station Optical Survey (CSS-OS)* | NN | https://arxiv.org/abs/2101.02532 |
 | *Estimating Galactic Distances From Images Using Self-supervised Representation Learning* | SSL | https://arxiv.org/abs/2101.04293 |
 | *QSO photometric redshifts using machine learning and neural networks* | kNN, DT, NN | https://arxiv.org/abs/2102.09177 | 
+| *Benchmarking and Scalability of Machine Learning Methods for Photometric Redshift Estimation* | RF, BDT, kNN | https://arxiv.org/abs/2104.01875 |
+| *Z-Sequence: Photometric redshift predictions for galaxy clusters with sequential random k-nearest neighbours* | kNN | https://arxiv.org/abs/2104.11335 |
 
 <a name='otherobservational'></a>
 #### Other Observational
@@ -383,6 +386,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Self-Supervised Representation Learning for Astronomical Images* | SSL | https://arxiv.org/abs/2012.13083 |
 | *An Active Galactic Nucleus Recognition Model based on Deep Neural Network* | NN | https://arxiv.org/abs/2101.06683 |
 | *A Machine Learning Approach to Measuring the Quenched Fraction of Low-Mass Satellites Beyond the Local Group* | NN | https://arxiv.org/abs/2102.05050 |
+| *The PAU survey: Estimating galaxy photometry with deep learning* | CNN | https://arxiv.org/abs/2104.02778 |
 
 &nbsp;
 ---
