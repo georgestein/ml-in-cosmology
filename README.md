@@ -134,6 +134,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *dm2gal: Mapping Dark Matter to Galaxies with Neural Networks* | CNN | https://arxiv.org/abs/2012.00186 |
 | *Fast and Accurate Non-Linear Predictions of Universes with Deep Learning* | V-Net | https://arxiv.org/abs/2012.00240 |
 | *Identifying Cosmological Information in a Deep Neural Network* | CNN | https://arxiv.org/abs/2012.03778 |
+| *CosmicRIM : Reconstructing Early Universe by Combining Differentiable Simulations with Recurrent Inference Machines* | RIM | https://arxiv.org/abs/2104.12864 |
 
 <a name='identification'></a>
 #### Structure Identification
