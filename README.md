@@ -135,6 +135,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Fast and Accurate Non-Linear Predictions of Universes with Deep Learning* | V-Net | https://arxiv.org/abs/2012.00240 |
 | *Identifying Cosmological Information in a Deep Neural Network* | CNN | https://arxiv.org/abs/2012.03778 |
 | *CosmicRIM : Reconstructing Early Universe by Combining Differentiable Simulations with Recurrent Inference Machines* | RIM | https://arxiv.org/abs/2104.12864 |
+| *AI-assisted super-resolution cosmological simulations II: Halo substructures, velocities and higher order statistics* | GAN | https://arxiv.org/abs/2105.01016 |
 
 <a name='identification'></a>
 #### Structure Identification
