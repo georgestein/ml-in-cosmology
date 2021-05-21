@@ -136,6 +136,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Identifying Cosmological Information in a Deep Neural Network* | CNN | https://arxiv.org/abs/2012.03778 |
 | *CosmicRIM : Reconstructing Early Universe by Combining Differentiable Simulations with Recurrent Inference Machines* | RIM | https://arxiv.org/abs/2104.12864 |
 | *AI-assisted super-resolution cosmological simulations II: Halo substructures, velocities and higher order statistics* | GAN | https://arxiv.org/abs/2105.01016 |
+| *Cosmic Velocity Field Reconstruction Using AI* | V-Net | https://arxiv.org/abs/2105.09450 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -389,7 +390,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *An Active Galactic Nucleus Recognition Model based on Deep Neural Network* | NN | https://arxiv.org/abs/2101.06683 |
 | *A Machine Learning Approach to Measuring the Quenched Fraction of Low-Mass Satellites Beyond the Local Group* | NN | https://arxiv.org/abs/2102.05050 |
 | *The PAU survey: Estimating galaxy photometry with deep learning* | CNN | https://arxiv.org/abs/2104.02778 |
-
+| *Anomaly detection in Hyper Suprime-Cam galaxy images with generative adversarial networks* | GAN, AE | https://arxiv.org/abs/2105.02434 | 
 &nbsp;
 ---
 <a name='parameters'></a>
