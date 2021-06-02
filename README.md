@@ -137,6 +137,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *CosmicRIM : Reconstructing Early Universe by Combining Differentiable Simulations with Recurrent Inference Machines* | RIM | https://arxiv.org/abs/2104.12864 |
 | *AI-assisted super-resolution cosmological simulations II: Halo substructures, velocities and higher order statistics* | GAN | https://arxiv.org/abs/2105.01016 |
 | *Cosmic Velocity Field Reconstruction Using AI* | V-Net | https://arxiv.org/abs/2105.09450 |
+| *Normalizing flows for random fields in cosmology* | NF | https://arxiv.org/abs/2105.12024 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -288,6 +289,7 @@ The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_mic
 | *A Generative Model of Galactic Dust Emission Using Variational Inference* | VAE | https://arxiv.org/abs/2101.11181 |
 | *A convolutional-neural-network estimator of CMB constraints on dark matter energy injection* | CNN | https://arxiv.org/abs/2101.10360 |
 | *An Unbiased Estimator of the Full-sky CMB Angular Power Spectrum using Neural Networks* | NN | https://arxiv.org/abs/2102.04327 |
+| *MillimeterDL: Deep Learning Simulations of the Microwave Sky* | U-Net | https://arxiv.org/abs/2105.11444 |
 
 &nbsp;
 
