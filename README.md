@@ -138,6 +138,10 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *AI-assisted super-resolution cosmological simulations II: Halo substructures, velocities and higher order statistics* | GAN | https://arxiv.org/abs/2105.01016 |
 | *Cosmic Velocity Field Reconstruction Using AI* | V-Net | https://arxiv.org/abs/2105.09450 |
 | *Normalizing flows for random fields in cosmology* | NF | https://arxiv.org/abs/2105.12024 |
+| *Classification algorithms applied to structure formation simulations* | RF | https://arxiv.org/abs/2106.06587 |
+| *Fast, high-fidelity Lyman α forests with convolutional neural networks* | V-Net | https://arxiv.org/abs/2106.12662 | 
+| *HyPhy: Deep Generative Conditional Posterior Mapping of Hydrodynamical Physics* | VAE | https://arxiv.org/abs/2106.12675 |
+| *Predicting halo occupation and galaxy assembly bias with machine learning* | RF | https://arxiv.org/abs/2107.01223 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -199,6 +203,8 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Modeling assembly bias with machine learning and symbolic regression* | RF, SR | https://arxiv.org/abs/2012.00111 |
 | *Reconstructing Patchy Reionization with Deep Learning* | U-Net | https://arxiv.org/abs/2101.01214 |
 | *Deep learning approach for identification of HII regions during reionization in 21-cm observations* | U-Net | https://arxiv.org/abs/2102.06713 |
+| *Machine learning galaxy properties from 21 cm lightcones: impact of network architectures and signal contamination* | CNN | https://arxiv.org/abs/2107.00018 |
+| *21cmVAE: A VAE-based Emulator of the 21-cm Global Signal* | VAE | https://arxiv.org/abs/2107.05581 | 
 
 &nbsp;
 ---
@@ -351,6 +357,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *QSO photometric redshifts using machine learning and neural networks* | kNN, DT, NN | https://arxiv.org/abs/2102.09177 | 
 | *Benchmarking and Scalability of Machine Learning Methods for Photometric Redshift Estimation* | RF, BDT, kNN | https://arxiv.org/abs/2104.01875 |
 | *Z-Sequence: Photometric redshift predictions for galaxy clusters with sequential random k-nearest neighbours* | kNN | https://arxiv.org/abs/2104.11335 |
+| *Probabilistic photo-z machine learning models for X-ray sky surveys* | RF | https://arxiv.org/abs/2107.01891 |
 
 <a name='otherobservational'></a>
 #### Other Observational
@@ -393,6 +400,10 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *A Machine Learning Approach to Measuring the Quenched Fraction of Low-Mass Satellites Beyond the Local Group* | NN | https://arxiv.org/abs/2102.05050 |
 | *The PAU survey: Estimating galaxy photometry with deep learning* | CNN | https://arxiv.org/abs/2104.02778 |
 | *Anomaly detection in Hyper Suprime-Cam galaxy images with generative adversarial networks* | GAN, AE | https://arxiv.org/abs/2105.02434 | 
+| *Euclid preparation: XVI. Forecasts for galaxy morphology with the Euclid Survey using Deep Generative Models* | VAE | https://arxiv.org/abs/2105.12149 |
+| *Planck Limits on Cosmic String Tension Using Machine Learning* | CNN | https://arxiv.org/abs/2106.00059 |
+| *Morphological classification of compact and extended radio galaxies using convolutional neural networks and data augmentation techniques* | CNN | https://arxiv.org/abs/2107.00385 |
+
 &nbsp;
 ---
 <a name='parameters'></a>
@@ -414,6 +425,8 @@ Cosmological parameter estimation is the mechanism of inferring the contents and
 | *Solving high-dimensional parameter inference: marginal posterior densities & Moment Networks* | NF | https://arxiv.org/abs/2011.05991 |
 | *Accelerating MCMC algorithms through Bayesian Deep Networks* | BNN | https://arxiv.org/abs/2011.14276 |
 | *Seeking New Physics in Cosmology with Bayesian Neural Networks I: Dark Energy and Modified Gravity* | BNN | https://arxiv.org/abs/2012.03992 |
+| *Unsupervised Resource Allocation with Graph Neural Networks* | GNN | https://arxiv.org/abs/2106.09761 |
+| *Machine-driven searches for cosmological physics* | IM | https://arxiv.org/abs/2107.00657 |
 
 &nbsp;
 
@@ -429,6 +442,7 @@ Contained here are some machine learning tools that are specifically designed fo
 | *Convolutional Neural Networks on the HEALPix sphere: a pixel-based algorithm and its application to CMB data analysis* | CNN | https://arxiv.org/abs/1902.04083 | 
 | *CosmicNet I: Physics-driven implementation of neural networks within Boltzmann-Einstein solvers* | NN | https://arxiv.org/abs/1907.05764 |
 | *FlowPM: Distributed TensorFlow Implementation of the FastPM Cosmological N-body Solver* | TF | https://arxiv.org/abs/2010.11847 |
+| *Towards Machine Learning-Based Meta-Studies: Applications to Cosmological Parameters* | NLP | https://arxiv.org/abs/2107.00665 |
 &nbsp;
 
 ---
