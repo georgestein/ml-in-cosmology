@@ -205,6 +205,7 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Deep learning approach for identification of HII regions during reionization in 21-cm observations* | U-Net | https://arxiv.org/abs/2102.06713 |
 | *Machine learning galaxy properties from 21 cm lightcones: impact of network architectures and signal contamination* | CNN | https://arxiv.org/abs/2107.00018 |
 | *21cmVAE: A VAE-based Emulator of the 21-cm Global Signal* | VAE | https://arxiv.org/abs/2107.05581 | 
+| *Probing Ultra-light Axion Dark Matter from 21cm Tomography using Convolutional Neural Networks* | CNN | https://arxiv.org/abs/2108.07972 |
 
 &nbsp;
 ---
@@ -241,7 +242,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Shear measurement bias II: a fast machine learning calibration method* | NN | https://arxiv.org/abs/2006.07011 |
 | *Interpreting deep learning models for weak lensing* | CNN | https://arxiv.org/abs/2007.06529 |
 | *Shear measurement bias II: a fast machine learning calibration method* | MLP | https://arxiv.org/abs/2006.07011 | 
-| *Probabilistic Mapping of Dark Matter by Neural Score Matching | DE | https://arxiv.org/abs/2011.08271 | 
+| *Probabilistic Mapping of Dark Matter by Neural Score Matching* | DE | https://arxiv.org/abs/2011.08271 | 
 | *Higher order statistics of shear field: a machine learning approach* | kNN, SVM, GP, RF, etc.. | https://arxiv.org/abs/2011.10438 |
 
 <a name='strong'></a>
@@ -250,9 +251,11 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | :--- | :---: | :---: |
 | *A neural network gravitational arc finder based on the Mediatrix filamentation method* | NN | https://arxiv.org/abs/1607.04644 |
 | *CMU DeepLens: deep learning for automatic image-based galaxy-galaxy strong lens finding* | CNN | https://arxiv.org/abs/1703.02642 |
+| *Automated Lensing Learner: Automated Strong Lensing Identification with a Computer Vision Technique* | HoG | https://arxiv.org/abs/1704.02322 |
 | *Finding strong lenses in CFHTLS using convolutional neural networks* | CNN | https://arxiv.org/abs/1704.02744 |
 | *Fast automated analysis of strong gravitational lenses with convolutional neural networks* | CNN | https://arxiv.org/abs/1708.08842 |
 | *Uncertainties in Parameters Estimated with Neural Networks: Application to Strong Gravitational Lensing* | NN | https://arxiv.org/abs/1708.08843 |
+| *The Strong Gravitational Lens Finding Challenge* | SVM, CNN | https://arxiv.org/abs/1802.03609 | 
 | *Testing convolutional neural networks for finding strong gravitational lenses in KiDS* | CNN | https://arxiv.org/abs/1807.04764 |
 | *Analyzing interferometric observations of strong gravitational lenses with recurrent and convolutional neural networks* | RNN, CNN | https://arxiv.org/abs/1808.00011 |
 | *Data-Driven Reconstruction of Gravitationally Lensed Galaxies using Recurrent Inference Machines* | RIM, CNN | https://arxiv.org/abs/1901.01359 |
@@ -358,6 +361,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Benchmarking and Scalability of Machine Learning Methods for Photometric Redshift Estimation* | RF, BDT, kNN | https://arxiv.org/abs/2104.01875 |
 | *Z-Sequence: Photometric redshift predictions for galaxy clusters with sequential random k-nearest neighbours* | kNN | https://arxiv.org/abs/2104.11335 |
 | *Probabilistic photo-z machine learning models for X-ray sky surveys* | RF | https://arxiv.org/abs/2107.01891 |
+| *Non-Sequential Neural Network for Simultaneous, Consistent Classification and Photometric Redshifts of OTELO Galaxies* | NN | https://arxiv.org/abs/2108.09415 |
 
 <a name='otherobservational'></a>
 #### Other Observational
@@ -370,6 +374,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *An automatic taxonomy of galaxy morphology using unsupervised machine learning* | SOM | https://arxiv.org/abs/1709.05834 | 
 | *Learning from the machine: interpreting machine learning algorithms for point- and extended- source classification* | RF, ADA, EXT, BDT, MINT, TINT | https://arxiv.org/abs/1712.03970 | 
 | *Predicting the Neutral Hydrogen Content of Galaxies From Optical Data Using Machine Learning* | OLR, RF, BDT, kNN, SVM, NN | https://arxiv.org/abs/1803.08334 |
+| *Star-galaxy classification in the Dark Energy Survey Y1 dataset* | SVM, ADA | https://arxiv.org/abs/1805.02427 |
 | *Classifying galaxy spectra at 0.5<z<1 with self-organizing maps* | SOM | https://arxiv.org/abs/1805.07845 |
 | *Knowledge transfer of Deep Learning for galaxy morphology from one survey to another* | CNN | https://arxiv.org/abs/1807.00807 |
 | *Classification of Broad Absorption Line Quasars with a Convolutional Neural Network* | CNN | https://arxiv.org/abs/1901.04506 | 
@@ -490,3 +495,5 @@ Michaël Defferrard
 Farida Farsian
 
 Pranath Reddy
+
+Camille Avestruz
