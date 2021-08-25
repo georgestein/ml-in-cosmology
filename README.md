@@ -448,6 +448,7 @@ Contained here are some machine learning tools that are specifically designed fo
 | *CosmicNet I: Physics-driven implementation of neural networks within Boltzmann-Einstein solvers* | NN | https://arxiv.org/abs/1907.05764 |
 | *FlowPM: Distributed TensorFlow Implementation of the FastPM Cosmological N-body Solver* | TF | https://arxiv.org/abs/2010.11847 |
 | *Towards Machine Learning-Based Meta-Studies: Applications to Cosmological Parameters* | NLP | https://arxiv.org/abs/2107.00665 |
+| *Equivariant Networks for Pixelized Spheres* | https://arxiv.org/abs/2106.06662 |
 &nbsp;
 
 ---
