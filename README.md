@@ -207,6 +207,7 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *21cmVAE: A VAE-based Emulator of the 21-cm Global Signal* | VAE | https://arxiv.org/abs/2107.05581 |
 | *Probing Ultra-light Axion Dark Matter from 21cm Tomography using Convolutional Neural Networks* | CNN | https://arxiv.org/abs/2108.07972 |
 | *GLOBALEMU: A novel and robust approach for emulating the sky-averaged 21-cm signal from the cosmic dawn and epoch of reionisation* | NN | https://arxiv.org/abs/2104.04336 |
+| *Emulating the Global 21-cm Signal from Cosmic Dawn and Reionization* | NN | https://arxiv.org/abs/1910.06274 |
 
 &nbsp;
 ---
