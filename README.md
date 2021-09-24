@@ -204,6 +204,7 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Modeling assembly bias with machine learning and symbolic regression* | RF, SR | https://arxiv.org/abs/2012.00111 |
 | *Reconstructing Patchy Reionization with Deep Learning* | U-Net | https://arxiv.org/abs/2101.01214 |
 | *Deep learning approach for identification of HII regions during reionization in 21-cm observations* | U-Net | https://arxiv.org/abs/2102.06713 |
+| *GLOBALEMU: A novel and robust approach for emulating the sky-averaged 21-cm signal from the cosmic dawn and epoch of reionisation* | NN | https://arxiv.org/abs/2104.04336 |
 | *Machine learning galaxy properties from 21 cm lightcones: impact of network architectures and signal contamination* | CNN | https://arxiv.org/abs/2107.00018 |
 | *21cmVAE: A VAE-based Emulator of the 21-cm Global Signal* | VAE | https://arxiv.org/abs/2107.05581 | 
 | *Probing Ultra-light Axion Dark Matter from 21cm Tomography using Convolutional Neural Networks* | CNN | https://arxiv.org/abs/2108.07972 |
