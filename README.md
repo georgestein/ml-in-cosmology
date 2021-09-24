@@ -79,9 +79,9 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 
 
 The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coil1.html) of the universe is a field that relies on state-of-the art cosmological simulations to address a number of questions. Due to the computational complexity of these simulations, some investigations will remain computationally-infeasible for the forseeable future, and machine learning techniques can have a number of important uses.
+
 <a name='formation'></a>
 #### Structure Formation
-
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
 | *A First Look at creating mock catalogs with machine learning techniques* | SVM, kNN | https://arxiv.org/abs/1303.1055 |
@@ -142,6 +142,9 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Fast, high-fidelity Lyman α forests with convolutional neural networks* | V-Net | https://arxiv.org/abs/2106.12662 | 
 | *HyPhy: Deep Generative Conditional Posterior Mapping of Hydrodynamical Physics* | VAE | https://arxiv.org/abs/2106.12675 |
 | *Predicting halo occupation and galaxy assembly bias with machine learning* | RF | https://arxiv.org/abs/2107.01223 |
+| *Finding universal relations in subhalo properties with artificial intelligence* | NN | https://arxiv.org/abs/2109.04484 |
+| *Multifield Cosmology with Artificial Intelligence* | CNN | https://arxiv.org/abs/2109.09747 |
+| *Robust marginalization of baryonic effects for cosmological inference at the field level* | CNN | https://arxiv.org/abs/2109.10360 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -247,6 +250,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Shear measurement bias II: a fast machine learning calibration method* | MLP | https://arxiv.org/abs/2006.07011 | 
 | *Probabilistic Mapping of Dark Matter by Neural Score Matching* | DE | https://arxiv.org/abs/2011.08271 | 
 | *Higher order statistics of shear field: a machine learning approach* | kNN, SVM, GP, RF, etc.. | https://arxiv.org/abs/2011.10438 |
+| *Simultaneously constraining cosmology and baryonic physics via deep learning from weak lensing* | CNN | https://arxiv.org/abs/2109.11060 |
 
 <a name='strong'></a>
 #### Strong Lensing
@@ -279,6 +283,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Targeted Likelihood-Free Inference of Dark Matter Substructure in Strongly-Lensed Galaxies* | GP, ... | https://arxiv.org/abs/2010.07032 | 
 | *Large-Scale Gravitational Lens Modeling with Bayesian Neural Networks for Accurate and Precise Inference of the Hubble Constant* | BNN | https://arxiv.org/abs/2012.00042 |
 | *Strong lens systems search in the Dark Energy Survey using Convolutional Neural Networks* | CNN | https://arxiv.org/abs/2109.00014 |
+| *Finding quadruply imaged quasars with machine learning. I. Methods* | CNN, VAE | https://arxiv.org/abs/2109.09781 |
 
 &nbsp;
 
@@ -303,6 +308,7 @@ The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_mic
 | *A convolutional-neural-network estimator of CMB constraints on dark matter energy injection* | CNN | https://arxiv.org/abs/2101.10360 |
 | *An Unbiased Estimator of the Full-sky CMB Angular Power Spectrum using Neural Networks* | NN | https://arxiv.org/abs/2102.04327 |
 | *MillimeterDL: Deep Learning Simulations of the Microwave Sky* | U-Net | https://arxiv.org/abs/2105.11444 |
+| *Reconstructing Cosmic Polarization Rotation with ResUNet-CMB* | U-Net | https://arxiv.org/abs/2109.09715 |
 
 &nbsp;
 
@@ -415,6 +421,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Planck Limits on Cosmic String Tension Using Machine Learning* | CNN | https://arxiv.org/abs/2106.00059 |
 | *Morphological classification of compact and extended radio galaxies using convolutional neural networks and data augmentation techniques* | CNN | https://arxiv.org/abs/2107.00385 |
 | *Capturing the physics of MaNGA galaxies with self-supervised Machine Learning* | SSL | https://arxiv.org/abs/2104.08292 |
+| *Galaxy Deblending using Residual Dense Neural networks* | RDN | https://arxiv.org/abs/2109.09550 |
 
 &nbsp;
 ---
@@ -468,6 +475,8 @@ Contained here are some cosmological machine learning datasets.
 | *Aemulus Project* | https://arxiv.org/abs/1804.05865 | https://aemulusproject.github.io/ |
 | *The Quijote simulations* | https://arxiv.org/abs/1909.05273 | https://github.com/franciscovillaescusa/Quijote-simulations | 
 | *The CAMELS project: Cosmology and Astrophysics with MachinE Learning Simulations* | https://arxiv.org/abs/2010.00619 | https://www.camel-simulations.org/ | 
+| *The CAMELS Multifield Dataset: Learning the Universe's Fundamental Parameters with Artificial Intelligence* | https://arxiv.org/abs/2109.10915 |
+
 &nbsp;
 
 ---
