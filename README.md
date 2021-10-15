@@ -212,6 +212,7 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *21cmVAE: A VAE-based Emulator of the 21-cm Global Signal* | VAE | https://arxiv.org/abs/2107.05581 | 
 | *Probing Ultra-light Axion Dark Matter from 21cm Tomography using Convolutional Neural Networks* | CNN | https://arxiv.org/abs/2108.07972 |
 | *Deep Forest: Neural Network reconstruction of the Lyman-alpha forest* | NN | https://arxiv.org/abs/2009.10673 |
+| *HIFlow: Generating Diverse HI Maps Conditioned on Cosmology using Normalizing Flow* | NF | https://arxiv.org/abs/2110.02983 |
 
 &nbsp;
 ---
@@ -284,6 +285,9 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Large-Scale Gravitational Lens Modeling with Bayesian Neural Networks for Accurate and Precise Inference of the Hubble Constant* | BNN | https://arxiv.org/abs/2012.00042 |
 | *Strong lens systems search in the Dark Energy Survey using Convolutional Neural Networks* | CNN | https://arxiv.org/abs/2109.00014 |
 | *Finding quadruply imaged quasars with machine learning. I. Methods* | CNN, VAE | https://arxiv.org/abs/2109.09781 |
+| *Mining for strong gravitational lenses with self-supervised learning* | SSL | https://arxiv.org/abs/2110.00023 |
+| *High-quality strong lens candidates in the final Kilo Degree survey footprint* | CNN | https://arxiv.org/abs/2110.01905 |
+
 
 &nbsp;
 
@@ -374,6 +378,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Non-Sequential Neural Network for Simultaneous, Consistent Classification and Photometric Redshifts of OTELO Galaxies* | NN | https://arxiv.org/abs/2108.09415 |
 | *Using a Neural Network Classifier to Select Galaxies with the Most Accurate Photometric Redshifts* | NN | https://arxiv.org/abs/2108.13260 |
 | *Investigating Deep Learning Methods for Obtaining Photometric Redshift Estimations from Images* | RF, CNN | https://arxiv.org/abs/2109.02503 |
+| *Estimation of Photometric Redshifts. I. Machine Learning Inference for Pan-STARRS1 Galaxies Using Neural Networks* | NN | https://arxiv.org/abs/2110.05726 | 
 
 <a name='otherobservational'></a>
 #### Other Observational
@@ -416,12 +421,14 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *An Active Galactic Nucleus Recognition Model based on Deep Neural Network* | NN | https://arxiv.org/abs/2101.06683 |
 | *A Machine Learning Approach to Measuring the Quenched Fraction of Low-Mass Satellites Beyond the Local Group* | NN | https://arxiv.org/abs/2102.05050 |
 | *The PAU survey: Estimating galaxy photometry with deep learning* | CNN | https://arxiv.org/abs/2104.02778 |
+| *Capturing the physics of MaNGA galaxies with self-supervised Machine Learning* | SSL | https://arxiv.org/abs/2104.08292 |
 | *Anomaly detection in Hyper Suprime-Cam galaxy images with generative adversarial networks* | GAN, AE | https://arxiv.org/abs/2105.02434 | 
 | *Euclid preparation: XVI. Forecasts for galaxy morphology with the Euclid Survey using Deep Generative Models* | VAE | https://arxiv.org/abs/2105.12149 |
 | *Planck Limits on Cosmic String Tension Using Machine Learning* | CNN | https://arxiv.org/abs/2106.00059 |
 | *Morphological classification of compact and extended radio galaxies using convolutional neural networks and data augmentation techniques* | CNN | https://arxiv.org/abs/2107.00385 |
-| *Capturing the physics of MaNGA galaxies with self-supervised Machine Learning* | SSL | https://arxiv.org/abs/2104.08292 |
 | *Galaxy Deblending using Residual Dense Neural networks* | RDN | https://arxiv.org/abs/2109.09550 |
+| *An astronomical image content-based recommendation system using combined deep learning models in a fully unsupervised mode* | SOM | https://arxiv.org/abs/2103.00276 |
+| *Emulating Sunyaev-Zeldovich Images of Galaxy Clusters using Auto-Encoders* | AE | https://arxiv.org/abs/2110.02232 |
 
 &nbsp;
 ---
@@ -454,14 +461,15 @@ Cosmological parameter estimation is the mechanism of inferring the contents and
 ## Tools
 Contained here are some machine learning tools that are specifically designed for the computational challenges of cosmology. 
 
-| Title | ML technique(s) used | arxiv link |
-| :--- | :---: | :---: |
-| *CosmoFlow: Using Deep Learning to Learn the Universe at Scale* | CNN | https://arxiv.org/abs/1808.04728 |
-| *DeepSphere: Efficient spherical Convolutional Neural Network with HEALPix sampling for cosmological applications* | CNN | https://arxiv.org/abs/1810.12186 |
-| *Convolutional Neural Networks on the HEALPix sphere: a pixel-based algorithm and its application to CMB data analysis* | CNN | https://arxiv.org/abs/1902.04083 | 
-| *CosmicNet I: Physics-driven implementation of neural networks within Boltzmann-Einstein solvers* | NN | https://arxiv.org/abs/1907.05764 |
-| *FlowPM: Distributed TensorFlow Implementation of the FastPM Cosmological N-body Solver* | TF | https://arxiv.org/abs/2010.11847 |
-| *Towards Machine Learning-Based Meta-Studies: Applications to Cosmological Parameters* | NLP | https://arxiv.org/abs/2107.00665 |
+| Title | arxiv link |
+| :--- | :---: |
+| *CosmoFlow: Using Deep Learning to Learn the Universe at Scale* | https://arxiv.org/abs/1808.04728 |
+| *DeepSphere: Efficient spherical Convolutional Neural Network with HEALPix sampling for cosmological applications*  | https://arxiv.org/abs/1810.12186 |
+| *Convolutional Neural Networks on the HEALPix sphere: a pixel-based algorithm and its application to CMB data analysis*  | https://arxiv.org/abs/1902.04083 | 
+| *CosmicNet I: Physics-driven implementation of neural networks within Boltzmann-Einstein solvers* | https://arxiv.org/abs/1907.05764 |
+| *FlowPM: Distributed TensorFlow Implementation of the FastPM Cosmological N-body Solver* | https://arxiv.org/abs/2010.11847 |
+| *Scattering Networks on the Sphere for Scalable and Rotationally Equivariant Spherical CNNs* | https://arxiv.org/abs/2102.02828 |
+| *Towards Machine Learning-Based Meta-Studies: Applications to Cosmological Parameters* | https://arxiv.org/abs/2107.00665 |
 | *Equivariant Networks for Pixelized Spheres* | https://arxiv.org/abs/2106.06662 |
 &nbsp;
 
