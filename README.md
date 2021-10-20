@@ -145,6 +145,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Finding universal relations in subhalo properties with artificial intelligence* | NN | https://arxiv.org/abs/2109.04484 |
 | *Multifield Cosmology with Artificial Intelligence* | CNN | https://arxiv.org/abs/2109.09747 |
 | *Robust marginalization of baryonic effects for cosmological inference at the field level* | CNN | https://arxiv.org/abs/2109.10360 |
+| *Inpainting hydrodynamical maps with deep learning* | CNN | https://arxiv.org/abs/2109.07070 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -287,7 +288,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Finding quadruply imaged quasars with machine learning. I. Methods* | CNN, VAE | https://arxiv.org/abs/2109.09781 |
 | *Mining for strong gravitational lenses with self-supervised learning* | SSL | https://arxiv.org/abs/2110.00023 |
 | *High-quality strong lens candidates in the final Kilo Degree survey footprint* | CNN | https://arxiv.org/abs/2110.01905 |
-
+| *Finding Strong Gravitational Lenses Through Self-Attention* | CNN, ViT | https://arxiv.org/abs/2110.09202 |
 
 &nbsp;
 
@@ -415,6 +416,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Deep Learning for Line Intensity Mapping Observations: Information Extraction from Noisy Maps* | GAN | https://arxiv.org/abs/2010.00809 |
 | *Peculiar Velocity Estimation from Kinetic SZ Effect using Deep Neural Networks* | CNN | https://arxiv.org/abs/2010.03762 |
 | *Machine learning forecasts of the cosmic distance duality relation with strongly lensed gravitational wave events* | GP, GA | https://arxiv.org/abs/2011.02718 |
+| *Survey2Survey: A deep learning generative model approach for cross-survey image mapping* | AE, GAN | https://arxiv.org/abs/2011.07124 |
 | *DeepShadows: Separating Low Surface Brightness Galaxies from Artifacts using Deep Learning* | CNN | https://arxiv.org/abs/2011.12437 |
 | *Model independent calibrations of gamma ray bursts using machine learning* | RF, NN | https://arxiv.org/abs/2011.13590 |
 | *Self-Supervised Representation Learning for Astronomical Images* | SSL | https://arxiv.org/abs/2012.13083 |
@@ -429,6 +431,8 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Galaxy Deblending using Residual Dense Neural networks* | RDN | https://arxiv.org/abs/2109.09550 |
 | *An astronomical image content-based recommendation system using combined deep learning models in a fully unsupervised mode* | SOM | https://arxiv.org/abs/2103.00276 |
 | *Emulating Sunyaev-Zeldovich Images of Galaxy Clusters using Auto-Encoders* | AE | https://arxiv.org/abs/2110.02232 |
+| *Deep Transfer Learning for Blended Source Identification in Galaxy Survey Data* | CNN | https://arxiv.org/abs/2110.08180 |
+| *Explaining deep learning of galaxy morphology with saliency mapping* | CNN | https://arxiv.org/abs/2110.08288 |
 
 &nbsp;
 ---
