@@ -146,6 +146,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Multifield Cosmology with Artificial Intelligence* | CNN | https://arxiv.org/abs/2109.09747 |
 | *Robust marginalization of baryonic effects for cosmological inference at the field level* | CNN | https://arxiv.org/abs/2109.10360 |
 | *Inpainting hydrodynamical maps with deep learning* | CNN | https://arxiv.org/abs/2109.07070 |
+| *From EMBER to FIRE: predicting high resolution baryon fields from dark matter simulations with Deep Learning* | GAN | https://arxiv.org/abs/2110.11970 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -289,6 +290,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Mining for strong gravitational lenses with self-supervised learning* | SSL | https://arxiv.org/abs/2110.00023 |
 | *High-quality strong lens candidates in the final Kilo Degree survey footprint* | CNN | https://arxiv.org/abs/2110.01905 |
 | *Finding Strong Gravitational Lenses Through Self-Attention* | CNN, ViT | https://arxiv.org/abs/2110.09202 |
+| *A search for galaxy-scale strong gravitational lenses in the Ultraviolet Near Infrared Optical Northern Survey (UNIONS)* | CNN | https://arxiv.org/abs/2110.11972 |
 
 &nbsp;
 
@@ -433,6 +435,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Emulating Sunyaev-Zeldovich Images of Galaxy Clusters using Auto-Encoders* | AE | https://arxiv.org/abs/2110.02232 |
 | *Deep Transfer Learning for Blended Source Identification in Galaxy Survey Data* | CNN | https://arxiv.org/abs/2110.08180 |
 | *Explaining deep learning of galaxy morphology with saliency mapping* | CNN | https://arxiv.org/abs/2110.08288 |
+| *SDSS-IV DR17: Final Release of MaNGA PyMorph Photometric and Deep Learning Morphological Catalogs* | CNN | https://arxiv.org/abs/2110.10694 |
 
 &nbsp;
 ---
