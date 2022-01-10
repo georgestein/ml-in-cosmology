@@ -1,14 +1,17 @@
 ## ml-in-cosmology
-This github attempts to maintain a comprehensive list of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. Each entry contains the paper title, a simple summary of the machine learning methods used in the work, and the arxiv link. If I have missed any cosmology papers that you believe should be included please email me at gstein@berkeley.edu or issue a pull request. 
+This github attempts to maintain a comprehensive list of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. I've also included some more obsevational galaxy studies.
+
+Each entry contains the paper title, a simple summary of the machine learning methods used in the work, and the arxiv link. If I have missed any papers that you believe should be included please email me at gstein@berkeley.edu or issue a pull request. 
+
+For general reviews of the subject, or for public machine-learning ready datasets, see the resources at the bottom of this list. 
 
 Feel free to cite in any works
 [![DOI](https://zenodo.org/badge/160429652.svg)](https://zenodo.org/badge/latestdoi/160429652)
 
-I am currently a postdoctoral researcher at the Berkeley Center for Cosmological Physics, broadly working on problems in computational cosmology, but with a great interest in machine learning methods, and just made this for fun and to help anyone with similar interests. Cheers to whoever can find which of the papers below have me as an author :beers: 
+I am currently a postdoctoral researcher at the Berkeley Center for Cosmological Physics and Lawrence Berkeley National Laboratory, broadly working on machine learning in cosmology. Cheers to whoever can find which of the papers below have me as a (co-)author :beers: 
 
 ---
-## Table of Contents
-#### Section List
+### Table of Contents
 - [Dictionary](#dictionary)
 - [Large-Scale Structure](#structure)
   - [Formation](#formation)
@@ -78,7 +81,7 @@ A dictionary of all abbreviations for machine learning methods used in this comp
 ## Large-Scale Structure
 
 
-The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coil1.html) of the universe is a field that relies on state-of-the art cosmological simulations to address a number of questions. Due to the computational complexity of these simulations, some investigations will remain computationally-infeasible for the forseeable future, and machine learning techniques can have a number of important uses.
+The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coil1.html) of the universe is a field that largely relies on state-of-the art cosmological simulations. Due to the computational complexity of these simulations, some investigations will remain computationally-infeasible for the forseeable future, and machine learning techniques can have a number of important uses.
 
 <a name='formation'></a>
 #### Structure Formation
@@ -138,6 +141,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *AI-assisted super-resolution cosmological simulations II: Halo substructures, velocities and higher order statistics* | GAN | https://arxiv.org/abs/2105.01016 |
 | *Cosmic Velocity Field Reconstruction Using AI* | V-Net | https://arxiv.org/abs/2105.09450 |
 | *Normalizing flows for random fields in cosmology* | NF | https://arxiv.org/abs/2105.12024 |
+| *Cosmic Voids in GAN-Generated Maps of Large-Scale Structure* | GAN | https://arxiv.org/abs/2106.04014 |
 | *Classification algorithms applied to structure formation simulations* | RF | https://arxiv.org/abs/2106.06587 |
 | *Fast, high-fidelity Lyman α forests with convolutional neural networks* | V-Net | https://arxiv.org/abs/2106.12662 | 
 | *HyPhy: Deep Generative Conditional Posterior Mapping of Hydrodynamical Physics* | VAE | https://arxiv.org/abs/2106.12675 |
@@ -146,7 +150,17 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Multifield Cosmology with Artificial Intelligence* | CNN | https://arxiv.org/abs/2109.09747 |
 | *Robust marginalization of baryonic effects for cosmological inference at the field level* | CNN | https://arxiv.org/abs/2109.10360 |
 | *Inpainting hydrodynamical maps with deep learning* | CNN | https://arxiv.org/abs/2109.07070 |
+| *Deep learning reconstruction of three-dimensional galaxy distributions with intensity mapping observations* | CNN | https://arxiv.org/abs/2110.05755 | 
 | *From EMBER to FIRE: predicting high resolution baryon fields from dark matter simulations with Deep Learning* | GAN | https://arxiv.org/abs/2110.11970 |
+| *Modeling the galaxy-halo connection with machine learning* | RF | https://arxiv.org/abs/2111.02422 |
+| *Super-resolving Dark Matter Halos using Generative Deep Learning* | U-Net, GAN | https://arxiv.org/abs/2111.06393 |
+| *Inferring halo masses with Graph Neural Networks* | GNN | https://arxiv.org/abs/2111.08683 |
+| *How to quantify fields or textures? A guide to the scattering transform* | ST | https://arxiv.org/abs/2112.01288 |
+| *Neural Network Acceleration of Large-scale Structure Theory Calculations* | NN | https://arxiv.org/abs/2112.05889 | 
+| *Physical Benchmarking for AI-Generated Cosmic Web* | U-Net | https://arxiv.org/abs/2112.05681 |
+| *Multi-Epoch Machine Learning 1: Unravelling Nature vs Nurture for Galaxy Formation* | ERT | https://arxiv.org/abs/2112.08424 |
+| *Unravelling the role of cosmic velocity field in dark matter halo mass function using deep learning* | CNN | https://arxiv.org/abs/2112.14743 |
+| *Cosmology with one galaxy?* | NN, GBT | https://arxiv.org/abs/2201.02202 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -174,13 +188,14 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Weak-lensing Mass Reconstruction of Galaxy Clusters with Convolutional Neural Network* | CNN | https://arxiv.org/abs/2102.05403 |
 | *DeepSZ: Identification of Sunyaev-Zel'dovich Galaxy Clusters using Deep Learning* | CNN | https://arxiv.org/abs/2102.13123 |
 | *DeepMerge II: Building Robust Deep Learning Algorithms for Merging Galaxy Identification Across Domains* | CNN | https://arxiv.org/abs/2103.01373 |
+| *Mass Estimation of Planck Galaxy Clusters using Deep Learning* | CNN | https://arxiv.org/abs/2111.01933 |
 
 &nbsp;
 
 ---
 <a name='reionization21cm'></a>
 ## Reionization and 21cm
-In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reionization) refers to the period when our universe went from the "Dark Ages" before major star and galaxy formation, to the ionized state we see today. 
+In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reionization) refers to the period when our universe went from the "Dark Ages" - before major star and galaxy formation - to the ionized state we see today. 
 
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
@@ -215,6 +230,8 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *Probing Ultra-light Axion Dark Matter from 21cm Tomography using Convolutional Neural Networks* | CNN | https://arxiv.org/abs/2108.07972 |
 | *Deep Forest: Neural Network reconstruction of the Lyman-alpha forest* | NN | https://arxiv.org/abs/2009.10673 |
 | *HIFlow: Generating Diverse HI Maps Conditioned on Cosmology using Normalizing Flow* | NF | https://arxiv.org/abs/2110.02983 |
+| *Understanding the Impact of Semi-Numeric Reionization Models when using CNNs* | CNN | https://arxiv.org/abs/2112.03443 |
+| *Extracting the 21-cm Power Spectrum and the reionization parameters from mock datasets using Artificial Neural Networks* | NN | https://arxiv.org/abs/2112.13866 |
 
 &nbsp;
 ---
@@ -222,7 +239,7 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 ## Gravitational Lensing
 [Gravitational lensing](http://www.cfhtlens.org/public/what-gravitational-lensing) in cosmology refers to the bending of light due to mass between the source and Earth. This effect is very useful for inferring properties of the total mass distribution in our Universe, which is dominated by dark matter that we cannot see electromagnetically. Gravitational lensing comes in two types: weak and strong.
 
-Strong gravitational lensing refers to the cases where the lensing effect (e.g. multiple images, clear shape distortions) is strong enough to be seen by the human eye, or equivalent, on an astronomical image. This only happens when a massive galaxy cluster lies between us and some background galaxies
+Strong gravitational lensing refers to the cases where the lensing effect is strong enough to be seen by the human eye, or equivalent, on an astronomical image. For example, we might see multiple images of a background galaxy, or clear shape distortions. This only happens when a massive galaxy cluster lies between us and some background galaxies
 
 Weak gravitational lensing refers to the global effect that almost all far away galaxies are gravitationally lensed by a small amount, which changes their observed shape by roughly 1%. This can only be measured statistically when given a large number of samples, and not on an object-to-object basis.
 
@@ -291,13 +308,15 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *High-quality strong lens candidates in the final Kilo Degree survey footprint* | CNN | https://arxiv.org/abs/2110.01905 |
 | *Finding Strong Gravitational Lenses Through Self-Attention* | CNN, ViT | https://arxiv.org/abs/2110.09202 |
 | *A search for galaxy-scale strong gravitational lenses in the Ultraviolet Near Infrared Optical Northern Survey (UNIONS)* | CNN | https://arxiv.org/abs/2110.11972 |
+| *Exploring the interpretability of deep neural networks used for gravitational lens finding with a sensitivity probe* | CNN | https://arxiv.org/abs/2112.02479 |
+| *The DES Bright Arcs Survey: Candidate Strongly Lensed Galaxy Systems from the Dark Energy Survey 5,000 Sq. Deg. Footprint* | CNN | https://arxiv.org/abs/2110.02418 |
 
 &nbsp;
 
 ---
 <a name='cmb'></a>
 ## Cosmic Microwave Background
-The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_microwave_background) is the light left over from the period of recombination in the very early Universe, 380,000 years after the beginning. CMB observations are sometimes referred to as "baby pictures of our Universe", as this light has been travelling for 13.5 billion years just to reach us.
+The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_microwave_background) is the light left over from the period of recombination in the very early Universe, 380,000 years after the beginning. CMB observations are sometimes referred to as "baby pictures of our Universe", as this light has been travelling for 13.5 billion years just to reach us. As this light travels towards us it can be effected by the large scale structure along the line of sight, which can be used as a probe of structure formation.
 
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
@@ -316,6 +335,8 @@ The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_mic
 | *An Unbiased Estimator of the Full-sky CMB Angular Power Spectrum using Neural Networks* | NN | https://arxiv.org/abs/2102.04327 |
 | *MillimeterDL: Deep Learning Simulations of the Microwave Sky* | U-Net | https://arxiv.org/abs/2105.11444 |
 | *Reconstructing Cosmic Polarization Rotation with ResUNet-CMB* | U-Net | https://arxiv.org/abs/2109.09715 |
+| *Single frequency CMB B-mode inference with realistic foregrounds from a single training image* | U-Net | https://arxiv.org/abs/2111.01138 |
+| *Convolutional Neural Network-reconstructed velocity for kinetic SZ detection* | CNN | https://arxiv.org/abs/2201.01643 |
 
 &nbsp;
 
@@ -323,11 +344,10 @@ The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_mic
 <a name='observational'></a>
 ## Observational
 
-This section has a variety of machine learning papers used for various observational applications.
+This section has a variety of machine learning papers used for various observational applications, mainly focusing on redshift estimation and various galaxy classification problems.
 
 <a name='redshifts'></a>
 #### Redshifts
-This section is definitely not exhaustive - there is a massive amount of work in this subject area.  
 
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
@@ -382,6 +402,13 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Using a Neural Network Classifier to Select Galaxies with the Most Accurate Photometric Redshifts* | NN | https://arxiv.org/abs/2108.13260 |
 | *Investigating Deep Learning Methods for Obtaining Photometric Redshift Estimations from Images* | RF, CNN | https://arxiv.org/abs/2109.02503 |
 | *Estimation of Photometric Redshifts. I. Machine Learning Inference for Pan-STARRS1 Galaxies Using Neural Networks* | NN | https://arxiv.org/abs/2110.05726 | 
+| *Photometric Redshift Estimation of BASS DR3 Quasars by Machine Learning* | RF, XGBoost | https://arxiv.org/abs/2110.14951 |
+| *Photometric redshifts for the S-PLUS Survey: is machine learning up to the task?* | GP, NN, MDN | https://arxiv.org/abs/2110.13901 |
+| *Machine learning synthetic spectra for probabilistic redshift estimation: SYTH-Z* | MDN | https://arxiv.org/abs/2111.12118 |
+| *Photometric Redshifts from SDSS Images with an Interpretable Deep Capsule Network* | CNN | https://arxiv.org/abs/2112.03939 |
+| *Estimation of Photometric Redshifts. II. Identification of Out-of-Distribution Data with Neural Networks*| NN | https://arxiv.org/abs/2112.07104 |
+| *Machine Learning Classification to Identify Catastrophic Outlier Photometric Redshift Estimates* | NN | https://arxiv.org/abs/2112.07811 |
+| *Extracting Photometric Redshift from Galaxy Flux and Image Data using Neural Networks in the CSST Survey* | NN | https://arxiv.org/abs/2112.08690 |
 
 <a name='otherobservational'></a>
 #### Other Observational
@@ -396,6 +423,7 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Predicting the Neutral Hydrogen Content of Galaxies From Optical Data Using Machine Learning* | OLR, RF, BDT, kNN, SVM, NN | https://arxiv.org/abs/1803.08334 |
 | *Star-galaxy classification in the Dark Energy Survey Y1 dataset* | SVM, ADA | https://arxiv.org/abs/1805.02427 |
 | *Classifying galaxy spectra at 0.5<z<1 with self-organizing maps* | SOM | https://arxiv.org/abs/1805.07845 |
+| *Radio Galaxy Zoo: ClaRAN - A Deep Learning Classifier for Radio Morphologies* | CNN | https://arxiv.org/abs/1805.12008 |
 | *Knowledge transfer of Deep Learning for galaxy morphology from one survey to another* | CNN | https://arxiv.org/abs/1807.00807 |
 | *Classification of Broad Absorption Line Quasars with a Convolutional Neural Network* | CNN | https://arxiv.org/abs/1901.04506 | 
 | *Generative deep fields: arbitrarily sized, random synthetic astronomical images through deep learning* | GAN | https://arxiv.org/abs/1904.10286 |
@@ -436,12 +464,17 @@ This section is definitely not exhaustive - there is a massive amount of work in
 | *Deep Transfer Learning for Blended Source Identification in Galaxy Survey Data* | CNN | https://arxiv.org/abs/2110.08180 |
 | *Explaining deep learning of galaxy morphology with saliency mapping* | CNN | https://arxiv.org/abs/2110.08288 |
 | *SDSS-IV DR17: Final Release of MaNGA PyMorph Photometric and Deep Learning Morphological Catalogs* | CNN | https://arxiv.org/abs/2110.10694 |
-
+| *Realistic galaxy image simulation via score-based generative models* | DDPM | https://arxiv.org/abs/2111.01713 |
+| *A Comparison of Deep Learning Architectures for Optical Galaxy Morphology Classification* | CNN | https://arxiv.org/abs/2111.04353 |
+| *Weight Pruning and Uncertainty in Radio Galaxy Classification* | CNN | https://arxiv.org/abs/2111.11654 | 
+| *Probabilistic segmentation of overlapping galaxies for large cosmological surveys* | U-Net | https://arxiv.org/abs/2111.15455 |
+| *Radio Galaxy Zoo: Giant Radio Galaxy Classification using Multi-Domain Deep Learning* | CNN | https://arxiv.org/abs/2112.03564 |
+| *Deep Learning of DESI Mock Spectra to Find Damped Lyα Systems* | CNN | https://arxiv.org/abs/2201.00827 |
 &nbsp;
 ---
 <a name='parameters'></a>
 ## Parameter Estimation
-Cosmological parameter estimation is the mechanism of inferring the contents and evolution of our universe from observations. This topic is quite broad, and therefore parameter estimation papers with a focus on an individual experiment/dataset can be found in other sections (e.g. the Reionization and 21cm section). Note this section is unfinished 
+Cosmological parameter estimation is the mechanism of inferring the contents and evolution of our universe from observations. This topic is quite broad, and therefore parameter estimation papers with a focus on an individual experiment/dataset can be found in other sections (e.g. the Reionization and 21cm section). Note that there is an abundance of work in this area that is not covered in the few examples below.  
 
 | Title | ML technique(s) used | arxiv link |
 | :--- | :---: | :---: |
@@ -460,7 +493,9 @@ Cosmological parameter estimation is the mechanism of inferring the contents and
 | *Seeking New Physics in Cosmology with Bayesian Neural Networks I: Dark Energy and Modified Gravity* | BNN | https://arxiv.org/abs/2012.03992 |
 | *Unsupervised Resource Allocation with Graph Neural Networks* | GNN | https://arxiv.org/abs/2106.09761 |
 | *Machine-driven searches for cosmological physics* | IM | https://arxiv.org/abs/2107.00657 |
+| *Lossless, Scalable Implicit Likelihood Inference for Cosmological Fields* | NN | https://arxiv.org/abs/2107.07405 |
 
+ 
 &nbsp;
 
 ---
@@ -483,7 +518,7 @@ Contained here are some machine learning tools that are specifically designed fo
 ---
 <a name='datasets'></a>
 ## Public Datasets
-Contained here are some cosmological machine learning datasets. 
+Contained here are some cosmological datasets geared towards straightforward use on machine learning applications. 
 
 | Title | arxiv link | github link |
 | :--- | :---: | :---: |
@@ -497,13 +532,14 @@ Contained here are some cosmological machine learning datasets.
 ---
 <a name='reviews'></a>
 ## Reviews
-Reviews of machine learning in cosmology, and, more broadly, astronomy.
+Reviews of machine learning in cosmology, and, more broadly, machine learning in astronomy.
 
 | Title | arxiv link |
 | :---  | :---: |
 | *Data Mining and Machine Learning in Astronomy* | https://arxiv.org/abs/0906.2173 | 
 | *The Role of Machine Learning in the Next Decade of Cosmology* | https://arxiv.org/abs/1902.10159 |
 | *Machine learning and the physical sciences* | https://arxiv.org/abs/1903.10563 |
+| *Building Trustworthy Machine Learning Models for Astronomy* | https://arxiv.org/abs/2111.14566 | 
 
 &nbsp;
 
@@ -531,3 +567,6 @@ Pranath Reddy
 Camille Avestruz
 
 Harry Bevins
+
+T. Lucas Makinen
+
