@@ -470,6 +470,8 @@ This section has a variety of machine learning papers used for various observati
 | *Probabilistic segmentation of overlapping galaxies for large cosmological surveys* | U-Net | https://arxiv.org/abs/2111.15455 |
 | *Radio Galaxy Zoo: Giant Radio Galaxy Classification using Multi-Domain Deep Learning* | CNN | https://arxiv.org/abs/2112.03564 |
 | *Deep Learning of DESI Mock Spectra to Find Damped Lyα Systems* | CNN | https://arxiv.org/abs/2201.00827 |
+| *Partial-Attribution Instance Segmentation for Astronomical Source Detection and Deblending* | CNN | https://arxiv.org/abs/2201.04714 |
+
 &nbsp;
 ---
 <a name='parameters'></a>
