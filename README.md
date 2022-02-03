@@ -131,8 +131,6 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Encoding large scale cosmological structure with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2011.05244 |
 | *Deep learning insights into cosmological structure formation* | CNN |  https://arxiv.org/abs/2011.10577 |
 | *SHAPing the Gas: Understanding Gas Shapes in Dark Matter Haloes with Interpretable Machine Learning* | XGBoost | https://arxiv.org/abs/2011.12987 |
-| *dm2gal: Mapping Dark Matter to Galaxies with Neural Networks* | CNN | https://arxiv.org/abs/2012.00186 |
-| *Fast and Accurate Non-Linear Predictions of Universes with Deep Learning* | V-Net | https://arxiv.org/abs/2012.00240 |
 | *The BACCO Simulation Project: A baryonification emulator with Neural Networks* | NN | https://arxiv.org/abs/2011.15018 |
 | *dm2gal: Mapping Dark Matter to Galaxies with Neural Networks* | CNN | https://arxiv.org/abs/2012.00186 |
 | *Fast and Accurate Non-Linear Predictions of Universes with Deep Learning* | V-Net | https://arxiv.org/abs/2012.00240 |
