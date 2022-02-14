@@ -159,6 +159,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Multi-Epoch Machine Learning 1: Unravelling Nature vs Nurture for Galaxy Formation* | ERT | https://arxiv.org/abs/2112.08424 |
 | *Unravelling the role of cosmic velocity field in dark matter halo mass function using deep learning* | CNN | https://arxiv.org/abs/2112.14743 |
 | *Cosmology with one galaxy?* | NN, GBT | https://arxiv.org/abs/2201.02202 |
+| *Mimicking the halo-galaxy connection using machine learning* | DT, kNN, GBM, NN | https://arxiv.org/abs/2201.06054 | 
 
 <a name='identification'></a>
 #### Structure Identification
@@ -230,6 +231,8 @@ In cosmology, the process of [Reionization](https://en.wikipedia.org/wiki/Reioni
 | *HIFlow: Generating Diverse HI Maps Conditioned on Cosmology using Normalizing Flow* | NF | https://arxiv.org/abs/2110.02983 |
 | *Understanding the Impact of Semi-Numeric Reionization Models when using CNNs* | CNN | https://arxiv.org/abs/2112.03443 |
 | *Extracting the 21-cm Power Spectrum and the reionization parameters from mock datasets using Artificial Neural Networks* | NN | https://arxiv.org/abs/2112.13866 |
+| *Inferring Astrophysics and Dark Matter Properties from 21cm Tomography using Deep Learning* | CNN | https://arxiv.org/abs/2201.07587 |
+| *Machine Learning to Decipher the Astrophysical Processes at Cosmic Dawn* | NN | https://arxiv.org/abs/2201.08205 |
 
 &nbsp;
 ---
@@ -268,6 +271,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Probabilistic Mapping of Dark Matter by Neural Score Matching* | DE | https://arxiv.org/abs/2011.08271 | 
 | *Higher order statistics of shear field: a machine learning approach* | kNN, SVM, GP, RF, etc.. | https://arxiv.org/abs/2011.10438 |
 | *Simultaneously constraining cosmology and baryonic physics via deep learning from weak lensing* | CNN | https://arxiv.org/abs/2109.11060 |
+| *Probabilistic Mass Mapping with Neural Score Estimation* | NSM | https://arxiv.org/abs/2201.05561 |
 
 <a name='strong'></a>
 #### Strong Lensing
@@ -303,10 +307,11 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Finding quadruply imaged quasars with machine learning. I. Methods* | CNN, VAE | https://arxiv.org/abs/2109.09781 |
 | *Mining for strong gravitational lenses with self-supervised learning* | SSL | https://arxiv.org/abs/2110.00023 |
 | *High-quality strong lens candidates in the final Kilo Degree survey footprint* | CNN | https://arxiv.org/abs/2110.01905 |
+| *The DES Bright Arcs Survey: Candidate Strongly Lensed Galaxy Systems from the Dark Energy Survey 5,000 Sq. Deg. Footprint* | CNN | https://arxiv.org/abs/2110.02418 |
 | *Finding Strong Gravitational Lenses Through Self-Attention* | CNN, ViT | https://arxiv.org/abs/2110.09202 |
 | *A search for galaxy-scale strong gravitational lenses in the Ultraviolet Near Infrared Optical Northern Survey (UNIONS)* | CNN | https://arxiv.org/abs/2110.11972 |
 | *Exploring the interpretability of deep neural networks used for gravitational lens finding with a sensitivity probe* | CNN | https://arxiv.org/abs/2112.02479 |
-| *The DES Bright Arcs Survey: Candidate Strongly Lensed Galaxy Systems from the Dark Energy Survey 5,000 Sq. Deg. Footprint* | CNN | https://arxiv.org/abs/2110.02418 |
+
 
 &nbsp;
 
@@ -467,7 +472,9 @@ This section has a variety of machine learning papers used for various observati
 | *Probabilistic segmentation of overlapping galaxies for large cosmological surveys* | U-Net | https://arxiv.org/abs/2111.15455 |
 | *Radio Galaxy Zoo: Giant Radio Galaxy Classification using Multi-Domain Deep Learning* | CNN | https://arxiv.org/abs/2112.03564 |
 | *Deep Learning of DESI Mock Spectra to Find Damped Lyα Systems* | CNN | https://arxiv.org/abs/2201.00827 |
+| *Astronomical Image Colorization and upscaling with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2112.13865 |
 | *Partial-Attribution Instance Segmentation for Astronomical Source Detection and Deblending* | CNN | https://arxiv.org/abs/2201.04714 |
+| *A Hitchhiker's Guide to Anomaly Detection with Astronomaly* | CNN, NN | https://arxiv.org/abs/2201.10189 |
 
 &nbsp;
 ---
@@ -493,7 +500,7 @@ Cosmological parameter estimation is the mechanism of inferring the contents and
 | *Unsupervised Resource Allocation with Graph Neural Networks* | GNN | https://arxiv.org/abs/2106.09761 |
 | *Machine-driven searches for cosmological physics* | IM | https://arxiv.org/abs/2107.00657 |
 | *Lossless, Scalable Implicit Likelihood Inference for Cosmological Fields* | NN | https://arxiv.org/abs/2107.07405 |
-
+| *Translation and Rotation Equivariant Normalizing Flow (TRENF) for Optimal Cosmological Analysis* | NF | https://arxiv.org/abs/2202.05282 |
  
 &nbsp;
 
@@ -569,3 +576,4 @@ Harry Bevins
 
 T. Lucas Makinen
 
+Francois Lanusse
