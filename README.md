@@ -311,7 +311,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Finding Strong Gravitational Lenses Through Self-Attention* | CNN, ViT | https://arxiv.org/abs/2110.09202 |
 | *A search for galaxy-scale strong gravitational lenses in the Ultraviolet Near Infrared Optical Northern Survey (UNIONS)* | CNN | https://arxiv.org/abs/2110.11972 |
 | *Exploring the interpretability of deep neural networks used for gravitational lens finding with a sensitivity probe* | CNN | https://arxiv.org/abs/2112.02479 |
-
+| *Detecting gravitational lenses using machine learning: exploring interpretability and sensitivity to rare lensing configurations* | CNN | https://arxiv.org/abs/2202.12776 |
 
 &nbsp;
 
@@ -339,6 +339,7 @@ The [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_mic
 | *Reconstructing Cosmic Polarization Rotation with ResUNet-CMB* | U-Net | https://arxiv.org/abs/2109.09715 |
 | *Single frequency CMB B-mode inference with realistic foregrounds from a single training image* | U-Net | https://arxiv.org/abs/2111.01138 |
 | *Convolutional Neural Network-reconstructed velocity for kinetic SZ detection* | CNN | https://arxiv.org/abs/2201.01643 |
+| *Cosmic Kite: Auto-encoding the Cosmic Microwave Background* | AE | https://arxiv.org/abs/2202.05853 |
 
 &nbsp;
 
@@ -411,6 +412,9 @@ This section has a variety of machine learning papers used for various observati
 | *Estimation of Photometric Redshifts. II. Identification of Out-of-Distribution Data with Neural Networks*| NN | https://arxiv.org/abs/2112.07104 |
 | *Machine Learning Classification to Identify Catastrophic Outlier Photometric Redshift Estimates* | NN | https://arxiv.org/abs/2112.07811 |
 | *Extracting Photometric Redshift from Galaxy Flux and Image Data using Neural Networks in the CSST Survey* | NN | https://arxiv.org/abs/2112.08690 |
+| *Photometric Redshifts for Cosmology: Improving Accuracy and Uncertainty Estimates Using Bayesian Neural Networks* | BNN | https://arxiv.org/abs/2202.07121 |
+| *The sensitivity of GPz estimates of photo-z posterior PDFs to realistically complex training set imperfections* | GP | https://arxiv.org/abs/2202.12775 |
+| *Photometric Redshift Estimation with Convolutional Neural Networks and Galaxy Images: A Case Study of Resolving Biases in Data-Driven Methods* | CNN | https://arxiv.org/abs/2202.09964 |
 
 <a name='otherobservational'></a>
 #### Other Observational
@@ -475,6 +479,7 @@ This section has a variety of machine learning papers used for various observati
 | *Astronomical Image Colorization and upscaling with Generative Adversarial Networks* | GAN | https://arxiv.org/abs/2112.13865 |
 | *Partial-Attribution Instance Segmentation for Astronomical Source Detection and Deblending* | CNN | https://arxiv.org/abs/2201.04714 |
 | *A Hitchhiker's Guide to Anomaly Detection with Astronomaly* | CNN, NN | https://arxiv.org/abs/2201.10189 |
+| *Classifying Galaxy Morphologies with Few-Shot Learning* | CNN | https://arxiv.org/abs/2202.08172 |
 
 &nbsp;
 ---
