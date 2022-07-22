@@ -1,7 +1,7 @@
 ## ml-in-cosmology
 This github attempts to maintain a comprehensive list of published machine learning applications to cosmology, organized by subject matter and arxiv posting date. I've also included some more obsevational galaxy studies.
 
-Each entry contains the paper title, a simple summary of the machine learning methods used in the work, and the arxiv link. If I have missed any papers that you believe should be included please email me at gstein@berkeley.edu or issue a pull request. 
+Each entry contains the paper title, a simple summary of the machine learning methods used in the work, and the arxiv link. If I have missed any papers that you believe should be included please email me at george.f.stein@gmail.com or issue a pull request. 
 
 For general reviews of the subject, or for public machine-learning ready datasets, see the resources at the bottom of this list. 
 
@@ -171,7 +171,11 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Insights into the origin of halo mass profiles from machine learning* | GB | https://arxiv.org/abs/2205.04474 | 
 | *Fast and realistic large-scale structure from machine-learning-augmented random field simulations* | U-Net | https://arxiv.org/abs/2205.07898 |
 | *Field Level Neural Network Emulator for Cosmological N-body Simulations* | V-Net | https://arxiv.org/abs/2206.04594 |
-| *Reconstructing the Universe with Variational self-Boosted Sampling* | HMC | https://arxiv.org/abs//2206.15433 |
+| *Reconstructing the Universe with Variational self-Boosted Sampling* | HMC, NF | https://arxiv.org/abs//2206.15433 |
+| *The Cosmic Graph: Optimal Information Extraction from Large-Scale Structure using Catalogues* | GNN | https://arxiv.org/abs/2207.05202 |
+| *Hybrid Physical-Neural ODEs for Fast N-body Simulations* | NN | https://arxiv.org/abs/2207.05509 | 
+| *CosmicNet II: Emulating extended cosmologies with efficient and accurate neural networks* | NN | https://arxiv.org/abs/2207.05707 | 
+| *Robust Simulation-Based Inference in Cosmology with Bayesian Neural Networks* | BNN | https://arxiv.org/abs/2207.08435 |
 
 <a name='identification'></a>
 #### Structure Identification
@@ -205,6 +209,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Revealing the Galaxy-Halo Connection Through Machine Learning* | GB | https://arxiv.org/abs/2204.10332 |
 | *A deep learning approach to halo merger tree construction* | GAN | https://arxiv.org/abs/2205.15988 | 
 | *Towards reconstructing the halo clustering and halo mass function of N-body simulations using neural ratio estimation* | CNN | https://arxiv.org/abs/2206.11312 |
+| *Classification of cosmic structures for galaxies with deep learning: connecting cosmological simulations with observations* | CNN | https://arxiv.org/abs/2207.09072 | 
 
 &nbsp;
 
@@ -339,7 +344,10 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *New Strong Gravitational Lenses from the DESI Legacy Imaging Surveys Data Release 9* | CNN | https://arxiv.org/abs/2206.02764 |
 | *Estimating the warm dark matter mass from strong lensing images with truncated marginal neural ratio estimation* | CNN | https://arxiv.org/abs/2205.09126 |
 | *HOLISMOKES -- IX. Neural network inference of strong-lens parameters and uncertainties from ground-based images* | CNN | https://arxiv.org/abs/2206.11279 |
+| *Strong Lensing Source Reconstruction Using Continuous Neural Fields* | NF | https://arxiv.org/abs/2206.14820 | 
 | *Pixelated Reconstruction of Gravitational Lenses using Recurrent Inference Machines* | VAE, RIM | https://arxiv.org/abs/2207.01073 |
+| *Population-Level Inference of Strong Gravitational Lenses with Neural Network-Based Selection Correction* | CNN | https://arxiv.org/abs/2207.04123 | 
+| *HOLISMOKES - X. Comparison between neural network and semi-automated traditional modeling of strong lenses* | NN | https://arxiv.org/abs/2207.10124 |
 
 &nbsp;
 
@@ -531,9 +539,14 @@ This section has a variety of machine learning papers used for various observati
 | *Identifying outliers in astronomical images with unsupervised machine learning* | kNN, AE | https://arxiv.org/abs/2205.09760 | 
 | *Robust Neural Network-Enhanced Estimation of Local Primordial Non-Gaussianity* | NN | https://arxiv.org/abs/2205.12964 |
 | *The Classification of Optical Galaxy Morphology Using Unsupervised Learning Techniques* | AE, kNN | https://arxiv.org/abs/2206.06165 |
+| *The Dynamical Mass of the Coma Cluster from Deep Learning* | CNN | https://arxiv.org/abs/2206.14834 | 
+| *Radio Galaxy Classification with wGAN-Supported Augmentation* | NN, GAN | https://arxiv.org/abs/2206.15131 |
 | *Likelihood-free Inference with Mixture Density Network* | MDN | https://arxiv.org/abs/2207.00185 |
 | *An Exploration of How Training Set Composition Bias in Machine Learning Affects Identifying Rare Objects* | NN | https://arxiv.org/abs/2207.03207 |
 | *Inferring Structural Parameters of Low-Surface-Brightness-Galaxies with Uncertainty Quantification using Bayesian Neural Networks* | BNN | https://arxiv.org/abs/2207.03471 |
+| *Scalable Bayesian Inference for Detection and Deblending in Astronomical Images* | VAE | https://arxiv.org/abs/2207.05642 |
+| *GaMPEN: A Machine Learning Framework for Estimating Bayesian Posteriors of Galaxy Morphological Parameters* | CNN | https://arxiv.org/abs/2207.05107 |
+| *Bayesian Neural Networks for classification tasks in the Rubin big data era* | BNN | https://arxiv.org/abs/2207.04578 |
 
 &nbsp;
 ---
@@ -567,6 +580,9 @@ Cosmological parameter estimation is the mechanism of inferring the contents and
 | *Improving cosmological covariance matrices with machine learning* | AE | https://arxiv.org/abs/2205.10881 |
 | *Bayesian error propagation for neural-net based parameter inference* | NN | https://arxiv.org/abs/2205.11587 |
 | *CONNECT: A neural network based framework for emulating cosmological observables and cosmological parameter inference* | NN | https://arxiv.org/abs/2205.15726 |
+| *Neural Posterior Estimation with Differentiable Simulators* | NF | https://arxiv.org/abs/2207.05636 |
+| *Accelerating astronomical and cosmological inference with Preconditioned Monte Carlo* | NF | https://arxiv.org/abs/2207.05652 |
+| *pocoMC: A Python package for accelerated Bayesian inference in astronomy and cosmology* | NF | https://arxiv.org/abs/2207.05660 | 
 
 &nbsp;
 
