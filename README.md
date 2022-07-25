@@ -348,6 +348,7 @@ Weak gravitational lensing refers to the global effect that almost all far away 
 | *Pixelated Reconstruction of Gravitational Lenses using Recurrent Inference Machines* | VAE, RIM | https://arxiv.org/abs/2207.01073 |
 | *Population-Level Inference of Strong Gravitational Lenses with Neural Network-Based Selection Correction* | CNN | https://arxiv.org/abs/2207.04123 | 
 | *HOLISMOKES - X. Comparison between neural network and semi-automated traditional modeling of strong lenses* | NN | https://arxiv.org/abs/2207.10124 |
+| *A machine learning based approach to gravitational lens identification with the International LOFAR Telescope* | CNN | https://arxiv.org/abs/2207.10698 |
 
 &nbsp;
 
