@@ -203,6 +203,7 @@ The [Large-Scale Structure](https://ned.ipac.caltech.edu/level5/March12/Coil/Coi
 | *Weak-lensing Mass Reconstruction of Galaxy Clusters with Convolutional Neural Network* | CNN | https://arxiv.org/abs/2102.05403 |
 | *DeepSZ: Identification of Sunyaev-Zel'dovich Galaxy Clusters using Deep Learning* | CNN | https://arxiv.org/abs/2102.13123 |
 | *DeepMerge II: Building Robust Deep Learning Algorithms for Merging Galaxy Identification Across Domains* | CNN | https://arxiv.org/abs/2103.01373 |
+| *A novel Cosmic Filament catalogue from SDSS data* | XGBoost | https://arxiv.org/abs/2106.05253 |
 | *Mass Estimation of Planck Galaxy Clusters using Deep Learning* | CNN | https://arxiv.org/abs/2111.01933 |
 | *Estimating Cluster Masses from SDSS Multi-band Images with Transfer Learning* | CNN | https://arxiv.org/abs/2203.06288 |
 | *Machine Learning methods to estimate observational properties of galaxy clusters in large volume cosmological N-body simulations* | RF, XGBoost, NN | https://arxiv.org/abs/2204.10751 |
